@@ -19,6 +19,7 @@ install:
 - git clone https://github.com/armyofevilrobots/helenplatt.ca
 - git submodule update --init
 - cd helenplatt.ca
+- find .
 script:
 # build the website with Hugo, output will be in public directory
 - hugo
