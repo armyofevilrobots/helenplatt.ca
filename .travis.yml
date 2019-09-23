@@ -16,8 +16,8 @@ install:
 # get and install Hugo
 - wget https://github.com/gohugoio/hugo/releases/download/v0.52/hugo_0.52_Linux-64bit.deb
 - sudo dpkg -i hugo*.deb
-- git clone https://github.com/armyofevilrobots/threedognight.ca
-- cd threedognight.ca
+- git clone https://github.com/armyofevilrobots/helenplatt.ca
+- cd helenplatt.ca
 script:
 # build the website with Hugo, output will be in public directory
 - hugo
