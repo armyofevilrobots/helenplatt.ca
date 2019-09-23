@@ -1,0 +1,29 @@
+baseURL = "http://helenplatt.ca/"
+languageCode = "en-us"
+title = "HelenPlatt.ca"
+theme = "hugo-now-ui"
+
+sectionPagesMenu = "main"
+
+pygmentsCodefences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsStyle = "pygments"
+uglyurls = true
+
+[permalinks]
+  post = "/:filename/"
+
+[params]
+    description = "HelenPlatt.ca Art blog and sales"
+    dateFormatToUse = "2006-01-02"
+    headerimg = "/images/header.png"
+    background = "/images/header.png"
+    #otherheaderimg = "/images/3puppers.jpg"
+
+#[menu]
+#  [[menu.main]]
+#    identifier = "about"
+#    name = "About Fender"
+#    url = "/fenderintro.html"
+#    weight = -100
+

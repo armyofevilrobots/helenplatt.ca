@@ -1,0 +1,39 @@
+# safelist - only build on pushes to these branches
+language: go
+branches:
+  only:
+  - master
+  - travis
+cache: pip
+go:
+- 1.11
+# Install the AWS CLI (SLooooooW)
+before_install:
+  - pip install --user awscli
+  - export PATH=$PATH:$HOME/.local/bin
+install:
+# change this version as it goes up
+# get and install Hugo
+- wget https://github.com/gohugoio/hugo/releases/download/v0.52/hugo_0.52_Linux-64bit.deb
+- sudo dpkg -i hugo*.deb
+- git clone https://github.com/armyofevilrobots/threedognight.ca
+- cd threedognight.ca
+script:
+# build the website with Hugo, output will be in public directory
+- hugo
+# deploy public directory to the bucket
+deploy:
+  provider: s3
+  access_key_id: $AWS_ACCESS_KEY_ID
+  secret_access_key: $AWS_SECRET_ACCESS_KEY
+  bucket: $S3_BUCKET
+  region: $S3_REGION
+  local-dir: public
+  skip_cleanup: true
+  acl: public_read
+  on:
+    # make it work on branch other than master
+    # change this to master or any other branch if needed
+    branch: master
+after_deploy:
+- aws cloudfront create-invalidation --paths '/*' --distribution-id $AWS_CLOUDFRONT_DISTRIBUTION_ID

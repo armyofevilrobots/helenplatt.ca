@@ -1,0 +1,3 @@
+[submodule "themes/helenplatt"]
+	path = themes/hugo-now-ui
+	url = git@github.com:cboettig/hugo-now-ui.git
