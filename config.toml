@@ -1,4 +1,4 @@
-baseURL = "http://helenplatt.ca/"
+baseURL = "https://helenplatt.ca/"
 languageCode = "en-us"
 title = "HelenPlatt.ca"
 theme = "hugo-now-ui"
