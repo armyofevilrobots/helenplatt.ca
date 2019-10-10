@@ -1,29 +1,38 @@
 baseURL = "https://helenplatt.ca/"
 languageCode = "en-us"
 title = "HelenPlatt.ca"
-theme = "hugo-now-ui"
+#theme = "hugo-now-ui"
 
-sectionPagesMenu = "main"
+# sectionPagesMenu = "main"
 
 pygmentsCodefences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsStyle = "pygments"
 uglyurls = true
+pluralizeListTitles = false
+preserveTaxonomyNames = true
+
+[taxonomies]
+  category = "categories"
 
 [permalinks]
   post = "/:filename/"
 
 [params]
     description = "HelenPlatt.ca Art blog and sales"
-    dateFormatToUse = "2006-01-02"
-    headerimg = "/images/header.png"
-    background = "/images/header.png"
-    #otherheaderimg = "/images/3puppers.jpg"
+    date_format = "2006-01-02"
+    tint="blue"
+    background = "/img/header.png"
 
-#[menu]
-#  [[menu.main]]
-#    identifier = "about"
-#    name = "About Fender"
-#    url = "/fenderintro.html"
-#    weight = -100
+[menu]
+  [[menu.main]]
+    identifier = "fluid_acrylic"
+    name = "fluid acrylic"
+    url = "/categories/fluid-acrylic.html"
+    weight = -100
+  [[menu.main]]
+    identifier = "mixed_media"
+    name = "mixed media"
+    url = "/categories/mixed-media.html"
+    weight = -100
 

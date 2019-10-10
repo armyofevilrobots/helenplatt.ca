@@ -1,0 +1,31 @@
+{{ define "main" }}
+<div class="row multi-line-columns">
+    <!-- Ranges through content/posts/*.md -->
+    {{ range .Pages }}
+    <div class="three columns">
+        {{ if eq .Type "art" }}
+        {{ if isset .Params "images" }}
+        <div class="art-main-image" >
+            <a class="art-item" href="{{ .Permalink }}">
+                {{ range first 1 .Params.images }}
+                <img class="art-preview" src="/images/{{ . }}" />
+                {{ end  }} <!-- first image in art post if available -->
+            </a>
+        </div>
+        {{ end  }} <!-- If isset images to gate the above^ -->
+        <p><a href="{{ .Permalink }}">{{ .Params.title | default "untitled" }}</a><br/>
+            {{ .Params.size | default "undefined size" }}<br/>
+            {{ .Params.medium | default "mixed media" }}<br/>
+            {{ .Params.price | default "$enquire" }}
+        </p>
+        {{ else }}
+        <h4>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </h4>
+        <p>{{ .Summary }}</p>
+        {{ end }}
+    </div>
+    {{ end }}
+</div>
+
+{{ end }}

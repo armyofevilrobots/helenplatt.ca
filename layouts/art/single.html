@@ -1,0 +1,35 @@
+{{ define "main" }}
+<div class="homepage-content">
+    <div class="art-lightbox row one-half column">
+        {{ range first 1 .Params.images }}
+        <div class="twelve column art-main-image">
+            <a class="art-item" href="/images/{{ . }}"><img class="art-preview" src="/images/{{ . }}" /></a>
+        </div>
+        {{ end }}
+        {{ range after 1 .Params.images }}
+        <div class="four columns art-image" >
+            <a class="art-item" href="/images/{{ . }}"><img class="art-preview" src="/images/{{ . }}" /></a>
+        </div>
+        {{ end }}
+    </div>
+    <div class="one-half column art-details row">
+        <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
+        {{ with .Params }}
+        <p>{{ .title | default "untitled" }}<br/>
+            {{ .size | default "undefined size" }}<br/>
+            {{ .medium | default "mixed media" }}<br/>
+            {{ .price | default "$enquire" }}</p>
+        {{ end }}
+        <p>
+            Enquire at
+            <a href="mail:helen@armyofevilrobots.com">helen@armyofevilrobots.com</a>
+            or message me on facebook
+            <a href="http://m.me/helen.platt.art" target="_blank">@helen.platt.art</a>
+        </p>
+        {{.Content}}
+    </div>
+    <script>
+     new SimpleLightbox({elements: '.art-lightbox a.art-item'}); 
+    </script>
+</div>
+{{ end }}

@@ -1,0 +1,6 @@
+{{ range .Site.Menus.main }}
+<a href="{{ .URL }}">
+    {{ .Pre }}
+    <span>{{ .Name }}</span>
+</a>
+{{ end }}

@@ -11,17 +11,26 @@ go:
 before_install:
   - pip install --user awscli
   - export PATH=$PATH:$HOME/.local/bin
+  - >-
+    openssl aes-256-cbc 
+    -K $encrypted_652c751868fe_key
+    -iv $encrypted_652c751868fe_iv
+    -in github_deploy_key.enc
+    -out github_deploy_key 
+    -d
+  - chmod 600 github_deploy_key
+  - eval $(ssh-agent -s)
+  - ssh-add github_deploy_key
 install:
 # change this version as it goes up
 # get and install Hugo
 - wget https://github.com/gohugoio/hugo/releases/download/v0.52/hugo_0.52_Linux-64bit.deb
 - sudo dpkg -i hugo*.deb
-- git clone https://github.com/armyofevilrobots/helenplatt.ca
+- git clone git@github.com:armyofevilrobots/helenplatt.ca.git
 - cd helenplatt.ca
-- git submodule update --init
 script:
 # build the website with Hugo, output will be in public directory
-- hugo
+- hugo -D
 # deploy public directory to the bucket
 deploy:
   provider: s3

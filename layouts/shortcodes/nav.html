@@ -1,0 +1,5 @@
+FOO BAR
+{{ .Site.Taxonomies }}
+{{ range .Site.Taxonomies.category }}
+<a href="{{ . }}">{{ . }}</a>
+{{ end }}
