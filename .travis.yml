@@ -46,4 +46,4 @@ deploy:
     # change this to master or any other branch if needed
     branch: master
 after_deploy:
-- aws cloudfront create-invalidation --paths '/*' --distribution-id $AWS_CLOUDFRONT_DISTRIBUTION_ID
+- aws cloudfront create-invalidation --paths '*' --distribution-id $AWS_CLOUDFRONT_DISTRIBUTION_ID
