@@ -46,6 +46,6 @@ deploy:
       # change this to master or any other branch if needed
       branch: master
   - provider: script
-    script: bash invalidate.sh
+    script: bash invalidate.sh $AWS_CLOUDFRONT_DISTRIBUTION_ID
     on:
       branch: master
