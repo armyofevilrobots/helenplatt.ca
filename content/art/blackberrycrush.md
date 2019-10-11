@@ -13,4 +13,4 @@ categories:
  - fluid acrylic
 ---
 
-Painting created with Golden acrylic paints and coated with UV varnish. Includes 1.25" deep, white wood frame.
+Painting created with Golden acrylic paints including copper metallic, and coated with UV varnish. Includes 1.25" deep, white wood frame.
