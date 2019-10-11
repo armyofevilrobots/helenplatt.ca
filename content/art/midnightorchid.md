@@ -1,11 +1,11 @@
 ---
-title: "Blackberry Crush"
-date: 2019-10-09T09:11:21-07:00
+title: "Midnight Orchid"
+date: 2019-10-11
 draft: false
 images:
- - art/blackberryCrush1.jpg
- - art/blackberryCrush2.jpg
- - art/blackberryCrush3.jpg
+ - art/midnightorchid1.jpg
+ - art/midnightorchid2.jpg
+ - art/midnightorchid3.jpg
 price: $175.00
 size: 12x12
 medium: acrylic on canvas

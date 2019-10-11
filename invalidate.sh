@@ -1,4 +1,4 @@
 #!/bin/bash
 aws cloudfront create-invalidation \
-    --paths '*' \
+    --paths '/*' \
     --distribution-id $AWS_CLOUDFRONT_DISTRIBUTION_ID
