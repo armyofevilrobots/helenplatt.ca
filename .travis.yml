@@ -30,7 +30,7 @@ install:
 - cd helenplatt.ca
 script:
 # build the website with Hugo, output will be in public directory
-- hugo -D
+- hugo
 # deploy public directory to the bucket
 deploy:
   - provider: s3
