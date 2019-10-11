@@ -30,20 +30,22 @@ install:
 - cd helenplatt.ca
 script:
 # build the website with Hugo, output will be in public directory
-- hugo -D
+- hugo
 # deploy public directory to the bucket
 deploy:
-  provider: s3
-  access_key_id: $AWS_ACCESS_KEY_ID
-  secret_access_key: $AWS_SECRET_ACCESS_KEY
-  bucket: $S3_BUCKET
-  region: $S3_REGION
-  local-dir: public
-  skip_cleanup: true
-  acl: public_read
-  on:
-    # make it work on branch other than master
-    # change this to master or any other branch if needed
-    branch: master
-after_deploy:
-- aws cloudfront create-invalidation --paths '*' --distribution-id $AWS_CLOUDFRONT_DISTRIBUTION_ID
+  - provider: s3
+    access_key_id: $AWS_ACCESS_KEY_ID
+    secret_access_key: $AWS_SECRET_ACCESS_KEY
+    bucket: $S3_BUCKET
+    region: $S3_REGION
+    local-dir: public
+    skip_cleanup: true
+    acl: public_read
+    on:
+      # make it work on branch other than master
+      # change this to master or any other branch if needed
+      branch: master
+  - provider: script
+    script: bash invalidate.sh $AWS_CLOUDFRONT_DISTRIBUTION_ID
+    on:
+      branch: master
