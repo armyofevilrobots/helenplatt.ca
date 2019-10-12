@@ -30,9 +30,15 @@ preserveTaxonomyNames = true
     name = "fluid acrylic"
     url = "/categories/fluid-acrylic.html"
     weight = -100
+
   [[menu.main]]
     identifier = "mixed_media"
     name = "mixed media"
     url = "/categories/mixed-media.html"
     weight = -100
 
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    url = "/about.html"
+    weight = 100

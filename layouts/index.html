@@ -3,9 +3,8 @@
     <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
     {{.Content}}
     <!-- Note that .Pages is the same as .Site.RegularPages on the homepage template. -->
-    {{ range $idx, $item := first 20 .Pages }}
+    {{ range $idx, $item := first 20 (where .Pages "Type" "art") }}
     <div class="four columns art-list-container">
-        {{ if eq $item.Type "art" }}
         {{ if isset $item.Params "images" }}
         <div class="art-main-image" >
             <a class="art-item" href="{{ .Permalink }}">
@@ -20,12 +19,6 @@
             {{ $item.Params.medium | default "mixed media" }}<br/>
             {{ $item.Params.price | default "$enquire" }}
         </p>
-        {{ else }}
-        <h4>
-            <a href="{{ .Permalink }}">{{ $item.Title }}</a>
-        </h4>
-        <p>{{ $item.Summary }}</p>
-        {{ end }}
     </div>
 
 <!-- Clear every 4 images if we have to. -->
