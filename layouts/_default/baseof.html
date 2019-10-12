@@ -19,7 +19,9 @@
             </div>
             <div class="row">
                 <div id="nav-menu" class="u-full-width">
+                    {{ block "nav" . }}
                     {{ partial "nav" . }}
+                    {{ end }}
                 </div>
             </div>
             {{ block "main" . }}

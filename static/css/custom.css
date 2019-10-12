@@ -12,6 +12,10 @@ a:hover{
 a:active{
     color:#3cadab
 }
+a.current-page{
+    font-weight: bold;
+    color:#3cadab
+}
 
 div#header-container{
 }
@@ -46,6 +50,7 @@ div.art-lightbox{
     clear: none;
 }
 
+
 div.art-details{
     line-height: 1.2em;
     display: block;
@@ -72,3 +77,4 @@ div.multi-line-columns div.columns{
     margin-left: 0;
     margin-right: 2%;
 }
+

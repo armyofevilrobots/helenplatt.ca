@@ -1,12 +1,12 @@
 {{ define "main" }}
-<div class="row multi-line-columns">
+<div class="row">
     <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
     {{.Content}}
     <!-- Note that .Pages is the same as .Site.RegularPages on the homepage template. -->
-    {{ range first 20 .Pages }}
-    <div class="four columns">
-        {{ if eq .Type "art" }}
-        {{ if isset .Params "images" }}
+    {{ range $idx, $item := first 20 .Pages }}
+    <div class="four columns art-list-container">
+        {{ if eq $item.Type "art" }}
+        {{ if isset $item.Params "images" }}
         <div class="art-main-image" >
             <a class="art-item" href="{{ .Permalink }}">
                 {{ range first 1 .Params.images }}
@@ -15,18 +15,24 @@
             </a>
         </div>
         {{ end  }} <!-- If isset images to gate the above^ -->
-        <p><a href="{{ .Permalink }}">{{ .Params.title | default "untitled" }}</a><br/>
-            {{ .Params.size | default "undefined size" }}<br/>
-            {{ .Params.medium | default "mixed media" }}<br/>
-            {{ .Params.price | default "$enquire" }}
+        <p><a href="{{ .Permalink }}">{{ $item.Params.title | default "untitled" }}</a><br/>
+            {{ $item.Params.size | default "undefined size" }}<br/>
+            {{ $item.Params.medium | default "mixed media" }}<br/>
+            {{ $item.Params.price | default "$enquire" }}
         </p>
         {{ else }}
         <h4>
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
+            <a href="{{ .Permalink }}">{{ $item.Title }}</a>
         </h4>
-        <p>{{ .Summary }}</p>
+        <p>{{ $item.Summary }}</p>
         {{ end }}
     </div>
+
+<!-- Clear every 4 images if we have to. -->
+{{ if eq 2 (mod $idx 3) }}
+</div>
+<div class="row">
+{{ end }}
     {{ end }} <!-- range first 20 .Pages -->
 </div>
 {{ end }}
