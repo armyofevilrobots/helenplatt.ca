@@ -3,8 +3,8 @@ title: "Ocean Currents"
 date: 2019-10-11
 draft: false
 images:
- - art/oceancurrent1.jpg
  - art/oceancurrent2.jpg
+ - art/oceancurrent1.jpg
  - art/oceancurrent3.jpg
 price: $175.00
 size: 12x12 inches
