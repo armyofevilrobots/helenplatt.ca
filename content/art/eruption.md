@@ -6,7 +6,7 @@ images:
  - art/eruption1.jpg
  - art/eruption2.jpg
 price: $175.00
-size: 12x12
+size: 12x12 inches
 medium: acrylic on canvas
 categories:
  - fluid acrylic

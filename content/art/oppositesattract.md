@@ -7,7 +7,7 @@ images:
  - art/oppositesattract2.jpg
  - art/oppositesattract3.jpg
 price: $175.00
-size: 12x12
+size: 12x12 inches
 medium: acrylic on canvas
 categories:
  - fluid acrylic
