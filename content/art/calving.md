@@ -6,7 +6,7 @@ images:
  - art/calving1.jpg
  - art/calving2.jpg
  - art/calving3.jpg
-price: $175.00
+price: $185.00
 size: 12x12
 medium: acrylic on canvas
 categories:

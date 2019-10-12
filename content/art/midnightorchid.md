@@ -6,7 +6,7 @@ images:
  - art/midnightorchid1.jpg
  - art/midnightorchid2.jpg
  - art/midnightorchid3.jpg
-price: $175.00
+price: $185.00
 size: 12x12
 medium: acrylic on canvas
 categories:

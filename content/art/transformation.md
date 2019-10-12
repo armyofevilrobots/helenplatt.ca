@@ -6,7 +6,7 @@ images:
  - art/transformation1.jpg
  - art/transformation2.jpg
  - art/transformation3.jpg
-price: $225.00
+price: $235.00
 size: 16x16
 medium: acrylic on canvas
 categories:

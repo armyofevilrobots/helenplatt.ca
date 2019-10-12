@@ -6,7 +6,7 @@ images:
  - art/reflections1.jpg
  - art/reflections2.jpg
  - art/reflections3.jpg
-price: $165.00
+price: $175.00
 size: 12x12
 medium: acrylic on canvas
 categories:

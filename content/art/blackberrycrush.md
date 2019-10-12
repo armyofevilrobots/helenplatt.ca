@@ -6,7 +6,7 @@ images:
  - art/blackberryCrush1.jpg
  - art/blackberryCrush2.jpg
  - art/blackberryCrush3.jpg
-price: $175.00
+price: $185.00
 size: 12x12
 medium: acrylic on canvas
 categories:
