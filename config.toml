@@ -38,7 +38,7 @@ preserveTaxonomyNames = true
     weight = -100
 
   [[menu.main]]
-    identifier = "about"
-    name = "about"
-    url = "/about.html"
+    identifier = "contact"
+    name = "contact"
+    url = "/contact.html"
     weight = 100
