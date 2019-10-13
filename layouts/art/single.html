@@ -1,22 +1,3 @@
-{{ define "nav" }}
-<a href="/">
-    <span>&lt; Home</span>
-</a>
-{{ range .Site.Menus.main }}
-{{ if eq .URL $.Page.RelPermalink }}
-<a class="current-page">
-    {{ .Pre }}
-    <span>{{ .Name }}</span>
-</a>
-{{ else }}
-<a href="{{ .URL }}">
-    {{ .Pre }}
-    <span>{{ .Name }}</span>
-</a>
-{{ end }} <!-- if menu is current url -->
-{{ end }}
-{{ end }}
-
 {{ define "main" }}
 <div class="homepage-content">
     <div class="art-lightbox row one-half column">

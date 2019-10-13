@@ -6,8 +6,8 @@ images:
  - art/blackberryCrush1.jpg
  - art/blackberryCrush2.jpg
  - art/blackberryCrush3.jpg
-price: $175.00
-size: 12x12
+price: $185.00
+size: 12x12 inches
 medium: acrylic on canvas
 categories:
  - fluid acrylic
