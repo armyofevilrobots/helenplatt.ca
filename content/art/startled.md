@@ -1,9 +1,9 @@
 ---
-title: "Flight"
+title: "Startled"
 date: 2019-10-11
 draft: false
 images:
- - art/flight.jpg
+ - art/startled.jpg
 price: $275.00
 size: 16x16 inches
 medium: acrylic and ink on canvas
