@@ -13,13 +13,11 @@ Find out more here:
 
 [http://armyofevilrobots.com](armyofevilrobots.com)
 
-If you require strange & extraordinary home pub furnishings and cannot 
-possibly face another day without them, then you should contact us.
+For inquiries about paintings or home pub furnishings, contact us here:
 
 info(a)armyofevilrobots.com (reaches both Helen & Derek)
 
 Or call us at 778 458 2002.
 
-Follow us on [Facebook](https://www.facebook.com/armyofevilrobots), 
-[Instagram](https://www.instagram.com/armyofevilrobots),
-and twitter [@armyofevilrobot](https://www.twitter.com/armyofevilrobot)!
+Follow us on [Facebook](https://www.facebook.com/armyofevilrobots) and 
+[Instagram](https://www.instagram.com/armyofevilrobots) 
