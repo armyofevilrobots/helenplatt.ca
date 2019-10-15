@@ -15,9 +15,9 @@ Find out more here:
 
 For inquiries about paintings or home pub furnishings, contact us here:
 
-info(a)armyofevilrobots.com (reaches both Helen & Derek)
+**info(a)armyofevilrobots.com** (reaches both Helen & Derek)
 
-Or call us at 778 458 2002.
+Or call us at **778 458 2002**
 
 Follow us on [Facebook](https://www.facebook.com/armyofevilrobots) and 
 [Instagram](https://www.instagram.com/armyofevilrobots) 
