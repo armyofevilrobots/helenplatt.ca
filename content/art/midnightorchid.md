@@ -1,6 +1,6 @@
 ---
 title: "Midnight Orchid"
-date: 2019-10-11
+date: 2019-10-14
 draft: false
 images:
  - art/midnightorchid1.jpg
@@ -13,4 +13,4 @@ categories:
  - fluid acrylic
 ---
 
-Painting created with Golden acrylic paints including copper metallic, and coated with UV varnish. Includes 1.25" deep, white wood frame.
+Painting created with Golden acrylic paints including copper metallic, and coated with UV varnish. Includes 1.25" deep, white wood frame. Price does not include shipping.

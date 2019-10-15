@@ -11,4 +11,4 @@ categories:
  - mixed media
 ---
 
-Painting created with Golden acrylic paints including metallic gold, on an exhibition deep canvas, then coated with UV varnish. Can be hung as is, no frame included.
+Painting created with Golden acrylic paints including metallic gold, on an exhibition deep canvas, then coated with UV varnish. Can be hung as is, no frame included. Price does not include shipping.

@@ -1,6 +1,6 @@
 ---
 title: "Blackberry Crush"
-date: 2019-10-09T09:11:21-07:00
+date: 2019-10-15T09:11:21-07:00
 draft: false
 images:
  - art/blackberryCrush1.jpg
@@ -13,4 +13,4 @@ categories:
  - fluid acrylic
 ---
 
-Painting created with Golden acrylic paints including copper metallic, and coated with UV varnish. Includes 1.25" deep, white wood frame.
+Painting created with Golden acrylic paints including copper metallic, and coated with UV varnish. Includes 1.25" deep, white wood frame. Price does not include shipping.

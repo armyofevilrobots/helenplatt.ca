@@ -12,4 +12,4 @@ categories:
  - fluid acrylic
 ---
 
-Painting created with Golden acrylic paints, on an exhibition deep canvas, then coated with UV varnish. Painting and varnish extend to outside edges and can be hung as is. No frame included.
+Painting created with Golden acrylic paints, on an exhibition deep canvas, then coated with UV varnish. Painting and varnish extend to outside edges and can be hung as is. No frame included and price does not include shipping.

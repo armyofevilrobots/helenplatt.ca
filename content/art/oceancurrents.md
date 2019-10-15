@@ -17,4 +17,4 @@ SUPPORT PACIFIC WILD - 50% of the sale price will be donated to Pacific Wild, an
 
 <https://pacificwild.org/>
 
-Painting created with Golden acrylic paints including metallic gold, on an exhibition deep canvas, then coated with UV varnish. Painting and varnish extend to outside edges and can be hung as is. No frame included.
+Painting created with Golden acrylic paints including metallic gold, on an exhibition deep canvas, then coated with UV varnish. Painting and varnish extend to outside edges and can be hung as is. No frame included. Price does not include shipping.
