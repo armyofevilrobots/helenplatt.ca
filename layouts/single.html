@@ -1,0 +1,9 @@
+{{ define "main" }}
+<div class="homepage-content">
+    <div class="twelve columns"> 
+        <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
+        <h3>{{ .Params.title }}</h3>
+        {{.Content}}
+    </div>
+</div>
+{{ end }}
