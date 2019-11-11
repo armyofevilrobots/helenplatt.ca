@@ -7,7 +7,7 @@ images:
  - art/ostara1.jpg
  - art/ostara2.jpg
  - art/ostara3.jpg
-price: $400 for all three (individuals $150)
+price: $325 for all three (individuals $120)
 size: 3 paintings - each 11x17 in. (artwork) - 16x22 (with frame)
 medium: mixed media on paper
 categories:

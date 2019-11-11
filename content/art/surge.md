@@ -6,7 +6,7 @@ images:
  - art/surge1.jpg
  - art/surge2.jpg
  - art/surge3.jpg
-price: $140
+price: $120
 size: 10 x 10 inches
 medium: acrylic on canvas
 categories:

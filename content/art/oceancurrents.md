@@ -6,7 +6,7 @@ images:
  - art/oceancurrent2.jpg
  - art/oceancurrent1.jpg
  - art/oceancurrent3.jpg
-price: $175.00
+price: $165.00
 size: 12x12 inches
 medium: acrylic on canvas
 categories:

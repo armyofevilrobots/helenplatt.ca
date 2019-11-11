@@ -6,7 +6,7 @@ images:
  - art/flowmotion1.jpg
  - art/flowmotion2.jpg
  - art/flowmotion3.jpg
-price: $220 for both (can be purchased individually for $130 each)
+price: $200 for both
 size: 2 paintings - 10 x 10 inches each
 medium: acrylic on wood panel
 categories:
