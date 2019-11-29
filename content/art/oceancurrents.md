@@ -13,7 +13,11 @@ categories:
  - fluid acrylic
 ---
 
-SUPPORT PACIFIC WILD - 50% of the sale price will be donated to Pacific Wild, an amazing organization that works to protect our BC wildlife. Find out more here:
+SUPPORT PACIFIC WILD - 50% of the sale price will be donated to Pacific Wild. Auction is ongoing until December 6th here:
+
+<https://pacificwild.org/make-a-difference/artists-for-the-great-bear-rainforest/wildauction2019/?fbclid=IwAR08aPvMTlCmmU0PPZaucXipYde1pSpx_kZVAVwnLVvLTD--SlDEKyx2mJo>
+
+Pacific Wild is an amazing organization that works to protect our BC wildlife. Find out more here:
 
 <https://pacificwild.org/>
 
