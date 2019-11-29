@@ -6,7 +6,6 @@ images:
  - art/oceancurrent2.jpg
  - art/oceancurrent1.jpg
  - art/oceancurrent3.jpg
-price: click for auction details
 size: 12x12 inches
 medium: acrylic on canvas
 categories:
