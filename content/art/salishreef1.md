@@ -7,7 +7,7 @@ images:
  - art/salishreef1b.jpg
  - art/reefdetail1.jpg
  - art/salishreefboth.jpg
-price: $175.00 (can be purchased with Salish Reef II - see below)
+price: $175.00 (can be purchased with Salish Reef II for $320)
 size: 12x12 inches
 medium: acrylic on canvas
 categories:
