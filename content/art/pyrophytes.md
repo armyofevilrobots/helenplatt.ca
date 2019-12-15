@@ -6,7 +6,7 @@ images:
  - art/pyrophytes.jpg
  - art/pyrophytes_3.jpg
  - art/pyrophytes_single.jpg
-price: $325 for all three (individuals $120)
+price: SOLD
 size: 3 paintings - each 11x17 in. (artwork) - 16x22 (with frame)
 medium: mixed media on paper
 categories:

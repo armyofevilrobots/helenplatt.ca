@@ -5,7 +5,7 @@ draft: false
 images:
  - art/limegreenandtangerine1.jpg
  - art/limegreenandtangerine2.jpg
-price: $95
+price: SOLD
 size: 3 paintings - 5 x 5 in. each
 medium: acrylic on canvas
 categories:
