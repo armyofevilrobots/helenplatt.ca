@@ -4,7 +4,7 @@ date: 2019-11-10
 draft: false
 images:
  - art/coasting2.jpg
-price: $95
+price: SOLD
 size: 10 x 10 in.
 medium: acrylic on wood panel
 categories:
