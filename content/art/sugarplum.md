@@ -5,7 +5,7 @@ draft: false
 images:
  - art/sugarplum1.jpg
  - art/sugarplum2.jpg
-price: $45
+price: SOLD
 size: 5 x 5 in.
 medium: acrylic on canvas
 categories:
