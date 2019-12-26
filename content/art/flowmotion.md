@@ -1,6 +1,6 @@
 ---
 title: "Flow Motion (diptych)"
-date: 2019-10-11
+date: 2019-12-11
 draft: false
 images:
  - art/flowmotion1.jpg
