@@ -1,51 +1,38 @@
-# safelist - only build on pushes to these branches
 language: go
 branches:
-  only:
-  - master
-  - travis
 cache: pip
 go:
 - 1.11
-# Install the AWS CLI (SLooooooW)
 before_install:
-  - pip install --user awscli
-  - export PATH=$PATH:$HOME/.local/bin
-  - >-
-    openssl aes-256-cbc 
-    -K $encrypted_652c751868fe_key
-    -iv $encrypted_652c751868fe_iv
-    -in github_deploy_key.enc
-    -out github_deploy_key 
-    -d
-  - chmod 600 github_deploy_key
-  - eval $(ssh-agent -s)
-  - ssh-add github_deploy_key
+- pip install --user awscli
+- export PATH=$PATH:$HOME/.local/bin
+- openssl aes-256-cbc  -K $encrypted_652c751868fe_key -iv $encrypted_652c751868fe_iv
+  -in github_deploy_key.enc -out github_deploy_key  -d
+- chmod 600 github_deploy_key
+- eval $(ssh-agent -s)
+- ssh-add github_deploy_key
 install:
-# change this version as it goes up
-# get and install Hugo
 - wget https://github.com/gohugoio/hugo/releases/download/v0.52/hugo_0.52_Linux-64bit.deb
 - sudo dpkg -i hugo*.deb
 - git clone git@github.com:armyofevilrobots/helenplatt.ca.git
 - cd helenplatt.ca
 script:
-# build the website with Hugo, output will be in public directory
 - hugo
-# deploy public directory to the bucket
 deploy:
-  - provider: s3
-    access_key_id: $AWS_ACCESS_KEY_ID
-    secret_access_key: $AWS_SECRET_ACCESS_KEY
-    bucket: $S3_BUCKET
-    region: $S3_REGION
-    local-dir: public
-    skip_cleanup: true
-    acl: public_read
-    on:
-      # make it work on branch other than master
-      # change this to master or any other branch if needed
-      branch: master
-  - provider: script
-    script: bash invalidate.sh $AWS_CLOUDFRONT_DISTRIBUTION_ID
-    on:
-      branch: master
+- provider: s3
+  access_key_id: "$AWS_ACCESS_KEY_ID"
+  secret_access_key: "$AWS_SECRET_ACCESS_KEY"
+  bucket: "$S3_BUCKET"
+  region: "$S3_REGION"
+  local-dir: public
+  skip_cleanup: true
+  acl: public_read
+  on:
+    branch: master
+- provider: script
+  script: bash invalidate.sh $AWS_CLOUDFRONT_DISTRIBUTION_ID
+  on:
+    branch: master
+notifications:
+  slack:
+    secure: tT9rbUeDgrC8D0rBPuXIhDNE3eASSCbw0bjZuAEtPkrX0DsxoR0lumMWxJGDRio1n1ZPIKx4uX3G1o1lAZ2QIBlIF9M+JLsTLPnjm8tYjk0ZGVWMe1HJ1Cic7FNYKawzAMb4t6teA973gLIp4FdaLKk/5Cv3Oj0pBI3Xmw6Poaj3eTDJ+rcnDJc5OU5t3TW84FJwKxvRjQ32WJIR9KeRmQbbE1VxzaKoFytd9/7oodnGt3NGQhPuacyQIvLrtA49ypMMyaO5OYZ/txrZ4NaIXN4hDF9/PitXTk1KM+IYD4VCli6tSdP2fgILlo3F0nmI+q1s3GPGeSvRlMwDI5mj7izPLOpq8kZQJKd5bQ3xAFFlxWLRAoc9dGR6/s/xmdRjqsHcs535ZfJDd8QZ3ZrxZkv2xnM3Qvke9kSdk2hJg3Aiyv09946F4xFTxx7KwpnydHO1QWWSJkUvv00J1Fj2Um6zDtaTjmFSzyeWZjq8wpkML6L5NyiZyWOPvqqRo+PBk1lMGoxC59PvDHjelJs1ZvyRS2inxvaAwu2w3e7V2imypVZyzgfjfkjHK8EGHnNtUBDm17AKZMn1x1+TGpgvdIkSVSqx+p8onz8hl6ioAiVe0+In3jA6usu52ZyBpNwNXOl8tZhIx5cPNvHpjhgG3Czliq3mh449Y5ldtQ+aaNg=
