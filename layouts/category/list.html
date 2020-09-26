@@ -1,10 +1,23 @@
 {{ define "main" }}
-<div class="row">
     <!-- Ranges through content/posts/*.md -->
-    {{ range $idx, $item := .Pages }}
+    {{ $.Scratch.Set "lastseries" "" }}
+    {{ $artPages := where .Site.Pages "Section" "art" }}
+    <!--   range $idx, $item := .Pages -->
+    {{ range $groupIdx, $groupItem := $artPages.ByDate }}
+    {{ range $idx, $item := ($groupItem.Pages.GroupByParam "series" "asc") }}
+    {{ range $spidx, $subpage := $item.Pages.ByDate }}
+    {{ if ne ($.Scratch.Get "lastseries") $subpage.Params.series }}
+    {{ $.Scratch.Set "lastseries" $subpage.Params.series }}
+    </div>
+    <div class="row" >
+        <div class="twelve columns">
+            <h3 class="series_header">{{$subpage.Params.series}}</h3>
+        </div>
+    </div>
+    <div class="row">
+    {{ end }}
     <div class="three columns art-list-container">
-        {{ if eq $item.Type "art" }}
-        {{ if isset $item.Params "images" }}
+        {{ if isset $subpage.Params "images" }}
         <div class="art-main-image" >
             <a class="art-item" href="{{ .Permalink }}">
                 {{ range first 1 .Params.images }}
@@ -12,24 +25,14 @@
                 {{ end  }} <!-- first image in art post if available -->
             </a>
         </div>
-        {{ end  }} <!-- If isset images to gate the above^ -->
-        <p><a href="{{ .Permalink }}">{{ $item.Params.title | default "untitled" }}</a><br/>
-            {{ $item.Params.size | default "undefined size" }}<br/>
-            {{ $item.Params.medium | default "mixed media" }}<br/>
-            {{ $item.Params.price | default "$enquire" }}
+        {{ end }} <!-- If isset images to gate the above^ -->
+        <p class="artdetails"><a href="{{ .Permalink }}">{{ $subpage.Params.title | default "untitled" }}</a><br/>
+            {{ $subpage.Params.size | default "undefined size" }}<br/>
+            {{ $subpage.Params.medium | default "mixed media" }}<br/>
+            {{ $subpage.Params.price | default "$enquire" }}
         </p>
-        {{ else }}
-        <h4>
-            <a href="{{ .Permalink }}">{{ $item.Title }}</a>
-        </h4>
-        <p>{{ $item.Summary }}</p>
-        {{ end }}
     </div>
-
-<!-- Clear every 4 images if we have to. -->
-{{ if eq 3 (mod $idx 4) }}
-</div>
-<div class="row">
-{{ end }}
-    {{ end }}
+        {{ end }} <!-- range of subpages -->
+    {{ end }} <!-- range of Group by series -->
+    {{ end }}<!-- range of section Art -->
     {{ end }}

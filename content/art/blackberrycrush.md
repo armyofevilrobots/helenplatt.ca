@@ -1,5 +1,6 @@
 ---
 title: "Blackberry Crush"
+series: Blackberry
 date: 2019-12-10
 draft: false
 images:

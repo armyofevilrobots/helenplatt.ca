@@ -11,6 +11,8 @@ pygmentsStyle = "pygments"
 uglyurls = true
 pluralizeListTitles = false
 preserveTaxonomyNames = true
+paginate=36
+pageinatePath="page"
 
 [taxonomies]
   category = "categories"
@@ -23,6 +25,7 @@ preserveTaxonomyNames = true
     date_format = "2006-01-02"
     tint="blue"
     background = "/img/header.png"
+    series="default"
 
 [menu]
   [[menu.main]]

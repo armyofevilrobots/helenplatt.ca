@@ -2,6 +2,7 @@
 title: "Contact"
 date: 2019-10-12T11:42:28-07:00
 draft: false
+series: contact
 ---
 Thanks for visiting my website! I’m a multi media artist living on the Sunshine Coast in BC. I spend most of my time painting in my studio or working with my Husband in our workshop.
 This website is where I post my paintings, but for all our other projects, please visit:

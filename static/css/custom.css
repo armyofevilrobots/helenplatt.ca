@@ -1,3 +1,9 @@
+@font-face {
+    font-family: 'Australia-Script';
+    src: url('/fonts/aus_script.ttf') format('truetype');
+}
+
+
 body{
     color:#3cadab;
     font-weight: 500;
@@ -18,10 +24,111 @@ a.current-page{
 }
 
 div#header-container{
+    width: 100%;
+    max-width: 960px;
 }
 
+div#fullwidth-header{
+    border-bottom: 2px solid #e9edf0;
+    /* margin-bottom: 1em; */
+}
+
+div.footer{
+    padding: 1.5em 0 3em 0;
+    background-color: #e9edf0;
+    color: black;
+}
+
+div.footer{
+    line-height:1em;
+}
+div.footer a{
+    color: black;
+}
+
+ul.pagination{
+    display: table;
+    margin: 2em auto;
+}
+ul.pagination li{
+    display: inline;
+    margin: 0 1em;
+}
+ul.pagination li.active a{
+    color: #000;
+}
+
+p.social{
+    margin: 0.3em;
+}
+
+p.social a{
+    padding: 0 0.6em;
+}
+
+h3.series_header{
+    clear:both;
+    /* font-family: Australia-Script; */
+    font-size: 2em;
+    color:#3cadab;
+    margin-top: 1em;
+}
+
+p.artdetails{
+    margin: auto 0 0 0;
+}
+
+h1.signature{
+    width: auto;
+    display: inline-block;
+    font-family: Australia-Script;
+    font-size: 4em;
+    font-weight: bold;
+    color: #d3a43c;
+    margin: 0 0 0.4em 0;
+    padding: 0.3em 0 0.4em 0;
+    transform: rotate(-5deg);
+}
+
+p.signature{
+    font-family: Australia-Script;
+    font-size: 2em;
+    font-weight: bold;
+    color: #d3a43c;
+    margin: 0.3em 0 0.5em 0;
+    padding:0.3em
+}
+
+div#background-container{
+    position: relative;
+    width: 100%;
+}
+
+img#floating-bg-img{
+    position:absolute;
+    bottom: -1px;
+    right:0;
+    height: 100%;
+}
+
+div.header-row{
+    position: relative;
+    overflow: hidden;
+    object-fit: contain;
+    display: block;
+    max-height: 35vh;
+}
+
+div#navcontainer{
+    clear: both;
+    position: relative
+    /* margin-left: 5em */
+}
+
+
 img#header-img{
-    /* position:absolute 50% 50%; */
+    position: relative;
+    left: -1.7em;
     object-fit: contain;
     padding:0; margin:0;
     display: block;
@@ -30,16 +137,21 @@ img#header-img{
 }
 
 div#nav-menu {
-    border-bottom: 0.1em solid #bfd1d3;
-    margin: 1em 0 3em 0;
-    padding-bottom: 1em;
+    margin: 0.5em 0 1em 0;
+    clear: both;
+    position: relative;
 }
 
 div#nav-menu a {
     display: block
     font-weight: bold;
-    font-size: 1.5em;
+    font-size: 1.3em;
     padding-right: 1em;
+    color: #000;
+    text-transform: uppercase;
+}
+div#nav-menu a:hover {
+    color: #d3a43c
 }
 
 div.art-lightbox{
@@ -77,4 +189,5 @@ div.multi-line-columns div.columns{
     margin-left: 0;
     margin-right: 2%;
 }
+
 

@@ -1,9 +1,11 @@
 {{ define "main" }}
+<h1 class="signature">Gallery</h1>
 <div class="row">
     <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
     {{.Content}}
     <!-- Note that .Pages is the same as .Site.RegularPages on the homepage template. -->
-    {{ range $idx, $item := first 20 (where .Pages "Type" "art") }}
+    <!--  range $idx, $item := first 20 (where .Site.RegularPages "Type" "art") -->
+    {{ range $idx, $item := (where .Paginator.Pages "Type" "art") }}
     <div class="four columns art-list-container">
         {{ if isset $item.Params "images" }}
         <div class="art-main-image" >
@@ -21,11 +23,13 @@
         </p>
     </div>
 
-<!-- Clear every 4 images if we have to. -->
-{{ if eq 2 (mod $idx 3) }}
+    <!-- Clear every 4 images if we have to. -->
+    {{ if eq 2 (mod $idx 3) }}
 </div>
 <div class="row">
-{{ end }}
+    {{ end }}
     {{ end }} <!-- range first 20 .Pages -->
 </div>
+{{ $paginator := .Paginate (where .Data.Pages "Type" "posts") }}
+{{ template "_internal/pagination.html" . }}
 {{ end }}

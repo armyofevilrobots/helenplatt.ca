@@ -7,6 +7,7 @@ images:
  - list_of.jpg
  - images_here.jpg
 price: $123.45
+series: Standalone
 ---
 
 **Insert Lead paragraph here.**
