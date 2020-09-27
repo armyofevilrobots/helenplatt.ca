@@ -38,7 +38,19 @@ pageinatePath="page"
     identifier = "mixed_media"
     name = "mixed media"
     url = "/categories/mixed-media.html"
-    weight = -100
+    weight = -50
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    url = "/abouthelen.html"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "events"
+    name = "events"
+    url = "/events.html"
+    weight = 50
 
   [[menu.main]]
     identifier = "contact"
