@@ -10,8 +10,8 @@ We’d love to hear from you! We can be reached at:
 info@armyofevilrobots.com
 Or call us at **778 458 2002**
 
-You can find us on [Facebook](https://www.facebook.com/armyofevilrobots) and 
-[Instagram](https://www.instagram.com/armyofevilrobots)  or my artist page at [helen.platt.art](https://www.facebook.com/helen.platt.art)
+You can find my artist page on Facebook at [helen.platt.art](https://www.facebook.com/helen.platt.art)  or our Army of Evil Robots [Facebook](https://www.facebook.com/armyofevilrobots) and 
+[Instagram](https://www.instagram.com/armyofevilrobots)
 
 Also, please check out our blog at
 http://armyofevilrobots.com
