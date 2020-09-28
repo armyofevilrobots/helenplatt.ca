@@ -16,7 +16,7 @@
 </a>
 {{ end }} <!-- if menu is current url -->
 {{ end }}
-{{ if eq .Page.Kind "term" }}
+{{ if or (eq .Page.Kind "term") (eq .Page.Kind "taxonomy") }}
 <br/><a href="/" class="galleryback">
     <span>&lt;Back to main gallery</span>
 </a>
