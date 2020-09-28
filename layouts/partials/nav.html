@@ -21,3 +21,8 @@
     <span>&lt;Back to main gallery</span>
 </a>
 {{ end }}
+{{ range (index $.Params "categories") }}
+<br/><a href="/categories/{{ . | urlize }}.html" class="galleryback">
+    <span>&lt;Back to {{ . }}</span>
+</a>
+{{ end }}
