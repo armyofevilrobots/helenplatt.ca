@@ -6,7 +6,7 @@ images:
  - art/Pink3.jpg
  - art/prettyinpinkbike.jpg
 price: $185 or $485 for all 3
-size: paper size 16x20
+size: paper size 14x17
 medium: mixed media on paper
 categories:
  - mixed media

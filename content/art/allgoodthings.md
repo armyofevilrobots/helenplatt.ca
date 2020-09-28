@@ -5,6 +5,7 @@ draft: false
 images:
  - art/allgoodthings2.jpg
  - art/allgoodthings1.jpg
+ - art/allgoodthings3.jpg
 price: _
 size: 11x18 inches each
 medium: mixed media on panel

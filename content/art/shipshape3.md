@@ -5,7 +5,7 @@ draft: false
 images:
  - art/shipshape3.jpg
 price: $125
-size: 12x14 including frame
+size: 12x15 including frame
 medium: mixed media on paper
 categories:
  - mixed media
