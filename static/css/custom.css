@@ -91,7 +91,7 @@ h3.series_header{
 }
 
 p.artdetails{
-    margin: auto 0 0 0;
+    margin: auto 0 1em 0;
 }
 
 h1.signature{
@@ -212,8 +212,9 @@ div.art-details{
 }
 
 div.art-main-image{
-    padding: 0 0 1.5em 0;
+    padding: 0 0 0.25em 0;
 }
+
 
 div.art-image{
     margin: 0;

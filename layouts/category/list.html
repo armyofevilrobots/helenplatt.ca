@@ -2,6 +2,7 @@
 <h1 class="signature">{{ .Title }}</h1>
     <!-- Ranges through content/posts/*.md -->
     {{ $.Scratch.Set "lastseries" "" }}
+    {{ $.Scratch.Set "index"  0 }}
     {{ $groups :=  .Data.Pages.ByDate.Reverse.GroupByParam  "seriesGroup" }}
     {{ range $groups }}
 <div class="row">
@@ -11,6 +12,12 @@
 </div>
 <div class="row">
         {{ range .Pages }}
+            {{ $.Scratch.Set "index" (add ($.Scratch.Get "index") 1) }}
+            {{ if eq (mod ($.Scratch.Get "index") 4) 0}}
+            </div>
+            <div class="row">
+            {{ end }}
+
             <div class="three columns art-list-container">
                 {{ if isset .Page.Params "images" }}
                 <div class="art-main-image" >
