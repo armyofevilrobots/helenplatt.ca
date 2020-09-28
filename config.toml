@@ -25,24 +25,19 @@ pageinatePath="page"
     date_format = "2006-01-02"
     tint="blue"
     background = "/img/header.png"
-    series="default"
+    series = "series"
+    seriesGroup = "seriesGroup"
 
 [menu]
   [[menu.main]]
-    identifier = "fluid_acrylic"
-    name = "fluid acrylic"
-    url = "/categories/fluid-acrylic.html"
-    weight = -100
-
-  [[menu.main]]
-    identifier = "mixed_media"
-    name = "mixed media"
-    url = "/categories/mixed-media.html"
-    weight = -50
+    identifier = "gallery"
+    name = "Gallery"
+    url = "/"
+    weight = 5
 
   [[menu.main]]
     identifier = "about"
-    name = "about"
+    name = "About Helen"
     url = "/abouthelen.html"
     weight = 10
 

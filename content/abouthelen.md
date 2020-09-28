@@ -4,6 +4,7 @@ date: 2019-10-12T11:42:28-07:00
 draft: false
 series: AboutHelen
 ---
+{{< figure src="/images/HP_profileR.jpg" class="floatright">}}
 Firstly, thank-you for visiting my website and a warm welcome to you!
 
 For me, the joy in creating lies in a journey of experimentation. As I explore new materials and ideas my artwork continually evolves.  It’s this process of play, and a willingness to experiment without fear that enables me to grow as an artist. 

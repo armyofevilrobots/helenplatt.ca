@@ -3,33 +3,5 @@
 <div class="row">
     <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
     {{.Content}}
-    <!-- Note that .Pages is the same as .Site.RegularPages on the homepage template. -->
-    <!--  range $idx, $item := first 20 (where .Site.RegularPages "Type" "art") -->
-    {{ range $idx, $item := (where .Paginator.Pages "Type" "art") }}
-    <div class="four columns art-list-container">
-        {{ if isset $item.Params "images" }}
-        <div class="art-main-image" >
-            <a class="art-item" href="{{ .Permalink }}">
-                {{ range first 1 .Params.images }}
-                <img class="art-preview" src="/images/{{ . }}" />
-                {{ end  }} <!-- first image in art post if available -->
-            </a>
-        </div>
-        {{ end  }} <!-- If isset images to gate the above^ -->
-        <p><a href="{{ .Permalink }}">{{ $item.Params.title | default "untitled" }}</a><br/>
-            {{ $item.Params.size | default "undefined size" }}<br/>
-            {{ $item.Params.medium | default "mixed media" }}<br/>
-            {{ $item.Params.price | default "$enquire" }}
-        </p>
-    </div>
-
-    <!-- Clear every 4 images if we have to. -->
-    {{ if eq 2 (mod $idx 3) }}
 </div>
-<div class="row">
-    {{ end }}
-    {{ end }} <!-- range first 20 .Pages -->
-</div>
-{{ $paginator := .Paginate (where .Data.Pages "Type" "posts") }}
-{{ template "_internal/pagination.html" . }}
 {{ end }}

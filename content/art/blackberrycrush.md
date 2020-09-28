@@ -1,6 +1,5 @@
 ---
 title: "Blackberry Crush"
-series: Blackberry
 date: 2019-12-10
 draft: false
 images:
@@ -12,6 +11,9 @@ size: 12x12 inches
 medium: acrylic on canvas
 categories:
  - fluid acrylic
+series: Blackberry
+seriesGroup: 2020-1-1-1234
+weight: 50
 ---
 
 Painting created with Golden acrylic paints including copper metallic, and coated with UV varnish. Includes 1.25" deep, white wood frame. Price does not include shipping.
