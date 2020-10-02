@@ -12,7 +12,7 @@ before_install:
 - eval $(ssh-agent -s)
 - ssh-add github_deploy_key
 install:
-- wget https://github.com/gohugoio/hugo/releases/download/v0.52/hugo_0.52_Linux-64bit.deb
+- wget https://github.com/gohugoio/hugo/releases/download/v0.74.3/hugo_0.74.3_Linux-64bit.deb
 - sudo dpkg -i hugo*.deb
 - git clone git@github.com:armyofevilrobots/helenplatt.ca.git
 - cd helenplatt.ca
