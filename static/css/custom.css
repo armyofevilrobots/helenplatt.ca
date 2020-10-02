@@ -164,6 +164,7 @@ img#header-img{
     display: block;
     max-height: 35vh;
     max-width: 100%;
+    z-index: 100;
 }
 
 div#nav-menu {
