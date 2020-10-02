@@ -1,35 +1,40 @@
 {{ define "main" }}
-<div class="row">
+<h1 class="signature">{{ .Title }}</h1>
     <!-- Ranges through content/posts/*.md -->
-    {{ range $idx, $item := .Pages }}
-    <div class="three columns art-list-container">
-        {{ if eq $item.Type "art" }}
-        {{ if isset $item.Params "images" }}
-        <div class="art-main-image" >
-            <a class="art-item" href="{{ .Permalink }}">
-                {{ range first 1 .Params.images }}
-                <img class="art-preview" src="/images/{{ . }}" />
-                {{ end  }} <!-- first image in art post if available -->
-            </a>
-        </div>
-        {{ end  }} <!-- If isset images to gate the above^ -->
-        <p><a href="{{ .Permalink }}">{{ $item.Params.title | default "untitled" }}</a><br/>
-            {{ $item.Params.size | default "undefined size" }}<br/>
-            {{ $item.Params.medium | default "mixed media" }}<br/>
-            {{ $item.Params.price | default "$enquire" }}
-        </p>
-        {{ else }}
-        <h4>
-            <a href="{{ .Permalink }}">{{ $item.Title }}</a>
-        </h4>
-        <p>{{ $item.Summary }}</p>
-        {{ end }}
-    </div>
-
-<!-- Clear every 4 images if we have to. -->
-{{ if eq 3 (mod $idx 4) }}
+    {{ $.Scratch.Set "lastseries" "" }}
+    {{ $groups :=  .Data.Pages.ByDate.Reverse.GroupByParam  "seriesGroup" }}
+    {{ range $groups }}
+<div class="row">
+    {{ range first 1 .Pages }}
+    <h3 class="series_header">{{ .Params.series }}</h3>
+    {{ end }}
 </div>
 <div class="row">
+    {{ $.Scratch.Set "index"  0 }}
+        {{ range .Pages }}
+            {{ if eq (mod ($.Scratch.Get "index") 4) 0}}
+            </div>
+            <div class="row">
+            {{ end }}
+                {{ $.Scratch.Set "index" (add ($.Scratch.Get "index") 1) }}
+
+            <div class="three columns art-list-container">
+                {{ if isset .Page.Params "images" }}
+                <div class="art-main-image" >
+                    <a class="art-item" href="{{ .Permalink }}">
+                        {{ range first 1 .Params.images }}
+                        <img class="art-preview" src="/images/{{ . }}" />
+                        {{ end  }} <!-- first image in art post if available -->
+                    </a>
+                </div>
+                {{ end }} <!-- If isset images to gate the above^ -->
+                <p class="artdetails"><a href="{{ .Permalink }}">{{ .Params.title | default "untitled" }}</a><br/>
+                        {{ .Params.size | default "undefined size" }}<br/>
+                        {{ .Params.medium | default "mixed media" }}<br/>
+                        {{ .Params.price | default "$enquire" }}
+                    </p>
+            </div>
+        {{ end }} <!-- - range pages -->
+</div>
+    {{ end }}
 {{ end }}
-    {{ end }}
-    {{ end }}

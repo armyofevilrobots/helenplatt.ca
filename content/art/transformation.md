@@ -1,6 +1,6 @@
 ---
-title: "Transformation"
-date: 2019-12-05
+title: "transformation"
+date: 2019-12-10
 draft: false
 images:
  - art/transformation1.jpg
@@ -10,7 +10,10 @@ price: $215.00
 size: 16x16 inches
 medium: acrylic on canvas
 categories:
- - fluid acrylic
+ - fluid media
+series: Go With the Flow Series
+seriesGroup: 2020-4-4-1234
+weight: 5
 ---
 
-Painting created with Golden acrylic paints including metallic silver, on an exhibition deep canvas, then coated with UV varnish. Painting and varnish extend to outside edges and can be hung as is. No frame included. Price does not include shipping.
+Painting created with Golden acrylic paints including metallic gold, on an exhibition deep canvas. Can be hung as is, no frame included. Price does not include shipping.

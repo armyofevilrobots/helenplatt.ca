@@ -11,6 +11,8 @@ pygmentsStyle = "pygments"
 uglyurls = true
 pluralizeListTitles = false
 preserveTaxonomyNames = true
+paginate=36
+pageinatePath="page"
 
 [taxonomies]
   category = "categories"
@@ -23,19 +25,27 @@ preserveTaxonomyNames = true
     date_format = "2006-01-02"
     tint="blue"
     background = "/img/header.png"
+    series = "series"
+    seriesGroup = "seriesGroup"
 
 [menu]
   [[menu.main]]
-    identifier = "fluid_acrylic"
-    name = "fluid acrylic"
-    url = "/categories/fluid-acrylic.html"
-    weight = -100
+    identifier = "gallery"
+    name = "Gallery"
+    url = "/"
+    weight = 5
 
   [[menu.main]]
-    identifier = "mixed_media"
-    name = "mixed media"
-    url = "/categories/mixed-media.html"
-    weight = -100
+    identifier = "about"
+    name = "About Helen"
+    url = "/abouthelen.html"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "events"
+    name = "events"
+    url = "/events.html"
+    weight = 50
 
   [[menu.main]]
     identifier = "contact"

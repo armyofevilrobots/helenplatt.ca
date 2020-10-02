@@ -1,7 +1,7 @@
 {{ define "main" }}
 <div class="row">
     <!-- Ranges through content/posts/*.md -->
-    {{ range $idx, $item := .Pages }}
+    {{ range $idx, $item := .Paginator.Pages }}
     <div class="three columns art-list-container">
         {{ if eq $item.Type "art" }}
         {{ if isset $item.Params "images" }}
@@ -26,10 +26,11 @@
         {{ end }}
     </div>
 
-<!-- Clear every 4 images if we have to. -->
-{{ if eq 3 (mod $idx 4) }}
+    <!-- Clear every 4 images if we have to. -->
+    {{ if eq 3 (mod $idx 4) }}
 </div>
 <div class="row">
+    {{ end }}
+    {{ end }}
+</div>
 {{ end }}
-    {{ end }}
-    {{ end }}

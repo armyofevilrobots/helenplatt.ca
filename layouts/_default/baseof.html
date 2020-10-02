@@ -11,23 +11,31 @@
         <script src="/js/simpleLightbox.min.js"></script>
     </head>
     <body>
+        <div id="fullwidth-header">
+            <div class="container ">
+                <div class="row" style=" clear: both">
+                    <div class="three columns"><a href="/"><img id="header-img" src="/images/headersig.png" /></a></div>
+                    <div id="background_container"  class="nine columns">
+                        <img id="floating-bg-img" src="/images/headergold.png" /></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container" >
+            <div class="row" style="clear: both">
+                <div id="navcontainer" class="twelve columns topmenu" >
+                    <div id="nav-menu">
+                        {{ block "nav" . }}
+                        {{ partial "nav" . }}
+                        {{ end }}
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="container">
-            <div class="row">
-                <div id="header-container" class="u-full-width">
-                    <a href="/"><img id="header-img" src="/images/header.png" /></a>
-                </div>
-            </div>
-            <div class="row">
-                <div id="nav-menu" class="u-full-width">
-                    {{ block "nav" . }}
-                    {{ partial "nav" . }}
-                    {{ end }}
-                </div>
-            </div>
             {{ block "main" . }}
             {{ end }}
-            {{ block "footer" . }}
-            {{ end }}
         </div>
+        {{ partial "footer" . }}
     </body>
 </html>

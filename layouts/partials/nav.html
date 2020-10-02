@@ -1,8 +1,8 @@
-{{ if ne .URL "/" }}
-<a href="/">
-    <span>&lt; Home</span>
-</a>
-{{ end }}
+<!-- {{ if ne .RelPermalink "/" }}
+     <a href="/">
+     <span>Gallery</span>
+     </a>
+     {{ end }} -->
 {{ range .Site.Menus.main }}
 {{ if eq .URL $.Page.RelPermalink }}
 <a class="current-page">
@@ -15,4 +15,14 @@
     <span>{{ .Name }}</span>
 </a>
 {{ end }} <!-- if menu is current url -->
+{{ end }}
+{{ if or (eq .Page.Kind "term") (eq .Page.Kind "taxonomy") }}
+<br/><a href="/" class="galleryback">
+    <span>&lt;Back to main gallery</span>
+</a>
+{{ end }}
+{{ range (index $.Params "categories") }}
+<br/><a href="/categories/{{ . | urlize }}.html" class="galleryback">
+    <span>&lt;Back to {{ . }}</span>
+</a>
 {{ end }}
