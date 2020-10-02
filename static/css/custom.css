@@ -129,8 +129,8 @@ img#floating-bg-img{
 
 figure.floatright{
     float: right;
-    width: 33%;
-    height: 33%;
+    width: 320px;
+    height: 320px;
     position:relative;
     margin:0 0 1em 1em;
 }
