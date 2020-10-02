@@ -4,9 +4,9 @@ date: 2019-12-10
 draft: false
 images:
  - art/zoom.jpg
-price: $170 for all four
+price: $155 for all four
 size: 4 paintings 5x5 each
-medium: mixed media on panel
+medium: mixed media on deep wood canvas
 categories:
  - mixed media
 series: Trek Series

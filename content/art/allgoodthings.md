@@ -6,8 +6,8 @@ images:
  - art/allgoodthings2.jpg
  - art/allgoodthings1.jpg
  - art/allgoodthings3.jpg
-price: _
-size: 11x18 inches each
+price: $440
+size: 11x18 inches each panel
 medium: mixed media on panel
 categories:
  - mixed media
@@ -16,4 +16,4 @@ seriesGroup: 2020-1-1-1234
 weight: 30
 ---
 
-Mixed-media paintings on panels. Includes quality deep aluminum frame. Price does not include shipping.
+Mixed-media paintings on panels. Includes Opus Sumo Metal frame. Price does not include shipping.

@@ -5,7 +5,7 @@ draft: false
 images:
  - art/wintergreen2crop.jpg
  - art/wintergreen2.jpg
-price: $115.00
+price: $110.00
 size: 8x10 inches
 medium: acrylic and laser cut wood
 categories:

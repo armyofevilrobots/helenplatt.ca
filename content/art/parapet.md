@@ -5,7 +5,7 @@ draft: false
 images:
  - art/brown3.jpg
  - art/Wall_brown.jpg
-price: $135 or $390 for all 3
+price: $110 or $300 for all 3
 size: frame size 12x15
 medium: mixed media on paper
 categories:

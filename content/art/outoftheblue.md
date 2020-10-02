@@ -5,7 +5,7 @@ draft: false
 images:
  - art/outofthebluefrt.jpg
  - art/outoftheblue.jpg
-price: $160
+price: $155
 size: 8x10 inches
 medium: mixed media on panel
 categories:

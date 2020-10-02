@@ -6,7 +6,7 @@ images:
  - art/hillsofgold2frt.jpg
  - art/hillsofgold1.jpg
  - art/hillsofgold2.jpg
-price: SEASON SPECIAL $95 for all three!
+price: SPECIAL PRICE $95 for all three!
 size: 5x5 inches each
 medium: acrylic on canvas
 categories:

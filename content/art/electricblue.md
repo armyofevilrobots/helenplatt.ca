@@ -6,7 +6,7 @@ images:
  - art/electric bluefrt.jpg
  - art/electric blue1.jpg
  - art/electricblue_side.jpg
-price: $125.00 each or all 3 for $355
+price: SPECIAL PRICE $65.00 each or all 3 for $175
 size: 6x6 inches each
 medium: acrylic on panel
 categories:

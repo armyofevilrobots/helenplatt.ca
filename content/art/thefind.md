@@ -4,7 +4,7 @@ date: 2019-12-10
 draft: false
 images:
  - art/discovery1.jpg
-price: $175
+price: $155
 size: 16x20 including frame
 medium: mixed media on paper
 categories:

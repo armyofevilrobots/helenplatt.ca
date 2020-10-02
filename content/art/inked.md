@@ -5,7 +5,7 @@ draft: false
 images:
  - art/ink2frt.jpg
  - art/ink2.jpg
-price: $150.00
+price: $145.00
 size: 10x12 inches
 medium: alcohol ink on panel
 categories:
