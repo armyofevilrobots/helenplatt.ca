@@ -1,5 +1,5 @@
 ---
-title: "SuperNova"
+title: "SuperNova II"
 date: 2019-12-10
 draft: false
 images:
