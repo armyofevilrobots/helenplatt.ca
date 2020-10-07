@@ -4,7 +4,7 @@ date: 2019-12-10
 draft: false
 images:
  - art/winterleaves1.jpg
-price: $165.00
+price: $165.00 CDN + tax
 size: 12x12 inches
 medium: acrylic and gold foil on canvas
 categories:
@@ -14,4 +14,4 @@ seriesGroup: 2020-7-7-1234
 weight: 60
 ---
 
-Painting created with Golden acrylic paints including metallics and gold foil on canvas. Includes white wood frame. Price does not include shipping.
+Painting created with Golden acrylic paints including metallics and gold foil on canvas. Includes white wood frame. Price does not include tax or shipping.

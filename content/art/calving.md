@@ -6,7 +6,7 @@ images:
  - art/calving1.jpg
  - art/calving2.jpg
  - art/calving3.jpg
-price: $175.00
+price: $175.00 CDN + tax
 size: 12x12 inches
 medium: acrylic on canvas
 categories:
@@ -16,4 +16,4 @@ seriesGroup: 2020-6-6-abcd
 weight: 70
 ---
 
-Painting created with Golden acrylic paints including gold and bronze metallic, and coated with UV varnish. Includes 1.25" deep, white wood frame. Price does not include shipping.
+Painting created with Golden acrylic paints including gold and bronze metallic, and coated with UV varnish. Includes 1.25" deep, white wood frame. Price does not include tax or shipping.

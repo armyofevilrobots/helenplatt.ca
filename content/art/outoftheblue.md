@@ -5,7 +5,7 @@ draft: false
 images:
  - art/outofthebluefrt.jpg
  - art/outoftheblue.jpg
-price: $155
+price: $155 CDN + tax
 size: 8x10 inches
 medium: mixed media on panel
 categories:
@@ -15,4 +15,4 @@ seriesGroup: 2020-1-1-1234
 weight: 20
 ---
 
-Mixed-media painting on panel. Includes quality deep aluminum frame. Price does not include shipping.
+Mixed-media painting on panel. Includes quality deep aluminum frame. Price does not include tax or shipping.

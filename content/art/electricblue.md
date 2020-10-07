@@ -6,7 +6,7 @@ images:
  - art/electric bluefrt.jpg
  - art/electric blue1.jpg
  - art/electricblue_side.jpg
-price: SPECIAL PRICE $65.00 each or all 3 for $175
+price: SPECIAL PRICE $65.00 each or all 3 for $175 CDN
 size: 6x6 inches each
 medium: acrylic on panel
 categories:
@@ -16,4 +16,4 @@ seriesGroup: 2020-1-1-1234
 weight: 40
 ---
 
-Painting created with Golden acrylic paints including metallics, on exhibition deep panel. Coated with high gloss epoxy with uv protection. Price does not include shipping.
+Painting created with Golden acrylic paints including metallics, on exhibition deep panel. Coated with high gloss epoxy with uv protection. Price does not include tax or shipping.

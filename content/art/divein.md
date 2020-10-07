@@ -7,7 +7,7 @@ images:
  - art/DiveIn1.jpg
  - art/DiveInall.jpg
  - art/DiveInside.jpg
-price: $155.00 each or all 3 for $435
+price: SOLD
 size: 9.5x9.5 inches each including frames
 medium: acrylic on panel
 categories:

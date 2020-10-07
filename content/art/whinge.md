@@ -4,7 +4,7 @@ date: 2019-12-10
 draft: false
 images:
  - art/whinge.jpg
-price: $165
+price: $165 CDN + tax
 size: art size 11x17"
 medium: lasercut birch panel and epoxy
 categories:
@@ -14,4 +14,4 @@ seriesGroup: 2020-1-1-1234
 weight: 10
 ---
 
-Laser cut birch panel and tinted epoxy. Price does not include shipping.
+Laser cut birch panel and tinted epoxy. Price does not include tax or shipping.

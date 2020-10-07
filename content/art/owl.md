@@ -6,7 +6,7 @@ images:
  - art/owlfrt.jpg
  - art/owl960.jpg
  - art/owlcu.jpg
-price: $1250
+price: $1250 CDN + tax
 size: wingspan 2.5ft
 medium: lasercut birch panel and epoxy
 categories:
@@ -16,4 +16,4 @@ seriesGroup: 2020-2-2-1234
 weight: 10
 ---
 
-Laser cut birch panel and tinted epoxy. Price does not include shipping.
+Laser cut birch panel and tinted epoxy. Price does not include tax or shipping.

@@ -5,7 +5,7 @@ draft: false
 images:
  - art/Pink3.jpg
  - art/prettyinpinkbike.jpg
-price: $175 or $475 for all 3
+price: $175 or $475 CDN for all 3
 size: frame size 16x20
 medium: mixed media on paper
 categories:
@@ -15,4 +15,4 @@ seriesGroup: 2020-4-4-1234
 weight: 10
 ---
 
-Mixed-media paintings on paper. Includes Opus COHO frame and matt. Price does not include shipping.
+Mixed-media paintings on paper. Includes Opus COHO frame and matt. Price does not include tax or shipping.
