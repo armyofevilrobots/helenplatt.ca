@@ -3,7 +3,7 @@ title: "Ryssonotus Magicae, Scarabaeoidea"
 date: 2019-12-10
 draft: false
 images:
- - art/RMS960.jpg
+ - art/RMS_960.jpg
 price: $485 CDN + tax
 size: 20 x 20
 medium: lasercut birch panel and epoxy
