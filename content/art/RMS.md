@@ -10,7 +10,7 @@ medium: lasercut birch panel and epoxy
 categories:
  - laser
 series: Ryssonotus Magicae, Scarabaeoidea
-seriesGroup: 2020-3-3-1234
+seriesGroup: 2020-4-4-1234
 weight: 10
 ---
 
