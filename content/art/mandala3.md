@@ -5,7 +5,7 @@ draft: false
 images:
  - art/ITT_6inch123.jpg
 price: $85 each or multiples for $75
-size: 6 x 6 each panel
+size: 6 x 6
 medium: Mixed Media and lasercut birch panel
 categories:
  - laser

@@ -5,7 +5,7 @@ draft: false
 images:
  - art/mandalaITT_necklace.jpg
 price: $38 
-size: 6 x 6 each panel
+size: 18" black leather cord
 medium: lasercut wood necklace 
 categories:
  - laser
