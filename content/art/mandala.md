@@ -3,8 +3,8 @@ title: "In This Together - 12inch"
 date: 2019-12-10
 draft: false
 images:
- - art/ITT_12inch1.jpg
-price: $175 
+ - art/ITT_12inch2.jpg
+price: $175 CAD + tax
 size: 12 x 12 
 medium: Mixed Media and lasercut birch panel
 categories:

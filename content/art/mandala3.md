@@ -4,7 +4,7 @@ date: 2019-12-10
 draft: false
 images:
  - art/ITT_6inch123.jpg
-price: $85 each or multiples for $75
+price: $85 each or multiples for $75 CAD + tax
 size: 6 x 6
 medium: Mixed Media and lasercut birch panel
 categories:
