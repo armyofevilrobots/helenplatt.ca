@@ -14,4 +14,4 @@ seriesGroup: 2020-5-5-1234
 weight: 10
 ---
 
-Laser cut birch panel and tinted epoxy. Price does not include tax or shipping.
+I've come to realize, although having a dream is great, having a purpose is much better! It's more fulfilling and achievable! Watching the honeybees at work in our garden inspired me to create this diptych. Laser cut birch panel and tinted epoxy. Price does not include tax or shipping.
