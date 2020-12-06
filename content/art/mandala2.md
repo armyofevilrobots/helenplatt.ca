@@ -15,4 +15,4 @@ seriesGroup: 2020-1-1-1234
 weight: 10
 ---
 
-Laser cut birch panel and collage. Price does not include tax or shipping.
+This series was inspired by our amazing little community! I designed the mandala with a bit of a Celtic knotwork spin to it. I wanted the design to be one unbroken line, for all the parts to be connected. Laser cut birch panel and collage. Price does not include tax or shipping.

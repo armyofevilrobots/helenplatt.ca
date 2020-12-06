@@ -14,4 +14,4 @@ seriesGroup: 2020-2-2-1234
 weight: 10
 ---
 
-I created this sign as a pick-me-up (or kick in the butt) to hang in my studio. This kind of advice is rarely welcome when coming from someone else but perfectly acceptable to say to oneself. I designed it in a teapot as I’ve found there are few situations in life that can’t be improved upon by a strong pot of tea! Laser cut birch panel and tinted epoxy. Price does not include tax or shipping.
+I created this sign as a pick-me-up (or kick in the butt) to hang in my studio. I designed it in a teapot as I’ve found there are few situations in life that can’t be improved upon by a strong pot of tea! Laser cut birch panel and tinted epoxy. Price does not include tax or shipping.
