@@ -9,9 +9,9 @@ price: $110.00 CDN + tax
 size: 8x10 inches
 medium: acrylic and laser cut wood
 categories:
- - fluid media
+ - laser
 series: Rainforest Series
-seriesGroup: 2020-7-7-1234
+seriesGroup: 2020-6-6-1234
 weight: 40
 ---
 
