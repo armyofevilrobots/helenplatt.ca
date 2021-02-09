@@ -10,7 +10,7 @@ medium: Mixed Media and lasercut birch panel
 categories:
  - laser
 series: Apiary & Beepiary
-seriesGroup: 2020-5-5-1234
+seriesGroup: 2020-58-58-1234
 weight: 10
 ---
 

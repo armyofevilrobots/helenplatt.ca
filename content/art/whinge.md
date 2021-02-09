@@ -10,7 +10,7 @@ medium: lasercut birch panel and epoxy
 categories:
  - laser
 series: Stop Whingeing and Get On With It!
-seriesGroup: 2020-2-2-1234
+seriesGroup: 2020-52-52-1234
 weight: 10
 ---
 

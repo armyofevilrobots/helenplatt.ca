@@ -11,7 +11,7 @@ medium: acrylic and laser cut wood
 categories:
  - laser
 series: Rainforest Series
-seriesGroup: 2020-6-6-1234
+seriesGroup: 2020-66-66-1234
 weight: 40
 ---
 

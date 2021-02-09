@@ -10,11 +10,13 @@ We’d love to hear from you! We can be reached at:
 info@armyofevilrobots.com
 Or call us at **778 458 2002**
 
-You can find my artist page on Facebook at [helen.platt.art](https://www.facebook.com/helen.platt.art)  or our Army of Evil Robots [Facebook](https://www.facebook.com/armyofevilrobots) and 
-[Instagram](https://www.instagram.com/armyofevilrobots)
+Follow me on [Instagram](https://www.instagram.com/helenplatt.art) or on Facebook at [helen.platt.art](https://www.facebook.com/helen.platt.art)  
 
-Also, please check out our blog at
-http://armyofevilrobots.com
+
+
+Also, please check out our blog at http://armyofevilrobots.com
+
+or on [Facebook](https://www.facebook.com/armyofevilrobots) and [Instagram](https://www.instagram.com/armyofevilrobots)
 
 It’s where Derek and I post stories about what we’ve been up to in our workshop, including in depth look at various projects.
 

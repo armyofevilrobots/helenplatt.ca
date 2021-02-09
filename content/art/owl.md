@@ -12,7 +12,7 @@ medium: lasercut birch panel and epoxy
 categories:
  - laser
 series: The Arrival
-seriesGroup: 2020-3-3-1234
+seriesGroup: 2020-49-49-1234
 weight: 10
 ---
 

@@ -11,7 +11,7 @@ medium: lasercut wood necklace
 categories:
  - laser
 series: In This Together - Mandala Series
-seriesGroup: 2020-1-1-1234
+seriesGroup: 2020-45-45-1234
 weight: 2
 ---
 
