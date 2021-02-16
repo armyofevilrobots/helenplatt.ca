@@ -10,7 +10,7 @@ medium: mixed media on paper
 categories:
  - mixed media
 series: Discovery Series
-seriesGroup: 2020-3-3-1234
+seriesGroup: 2020-55-55-1234
 weight: 30
 ---
 

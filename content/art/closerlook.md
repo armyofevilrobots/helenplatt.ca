@@ -10,7 +10,7 @@ medium: mixed media on deep wood canvas
 categories:
  - mixed media
 series: Trek Series
-seriesGroup: 2020-1-1-1234
+seriesGroup: 2020-53-53-1234
 weight: 10
 ---
 

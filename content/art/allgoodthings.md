@@ -8,11 +8,11 @@ images:
  - art/allgoodthings3.jpg
 price: $440 CAD + tax
 size: 11x18 inches each panel
-medium: mixed media on panel
+medium: mixed media on panel with frame
 categories:
  - mixed media
 series: Trek Series
-seriesGroup: 2020-1-1-1234
+seriesGroup: 2020-53-53-1234
 weight: 30
 ---
 

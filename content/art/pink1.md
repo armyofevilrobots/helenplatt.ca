@@ -11,7 +11,7 @@ medium: mixed media on paper
 categories:
  - mixed media
 series: Pretty in Pink Series
-seriesGroup: 2020-4-4-1234
+seriesGroup: 2020-66-66-1234
 weight: 30
 ---
 

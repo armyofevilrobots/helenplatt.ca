@@ -11,7 +11,7 @@ medium: mixed media on paper
 categories:
  - mixed media
 series: Ship Shape Series
-seriesGroup: 2020-2-2-1234
+seriesGroup: 2020-54-54-1234
 weight: 10
 ---
 

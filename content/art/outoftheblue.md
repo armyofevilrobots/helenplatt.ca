@@ -6,12 +6,12 @@ images:
  - art/outofthebluefrt.jpg
  - art/outoftheblue.jpg
 price: $155 CDN + tax
-size: 8x10 inches
+size: 8x10 inches with frame
 medium: mixed media on panel
 categories:
  - mixed media
 series: Trek Series
-seriesGroup: 2020-1-1-1234
+seriesGroup: 2020-53-53-1234
 weight: 20
 ---
 
