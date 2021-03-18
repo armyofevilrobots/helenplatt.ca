@@ -13,9 +13,9 @@ size: 12x12 inches
 medium: acrylic on canvas
 categories:
  - fluid media
-series: Salish Reef
-seriesGroup: 2020-3-3-1234
-weight: 10
+series: Surf and Sand Series
+seriesGroup: 2020-1-1-1234
+weight: 20
 ---
 
 Painting created with Golden acrylic paints including metallics, on canvas. Coated with high gloss epoxy with uv protection. Includes white wood frames. Price does not include tax or shipping.
