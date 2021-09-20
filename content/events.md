@@ -12,7 +12,9 @@ http://gibsonspublicmarket.com/
 
 #### SUNSHINE COAST ART CRAWL!!! October 22nd to 24th
 
-So excited I can barely contain myself! I'll be a venue in the art crawl this year for my very first time! I've been busy creating loads of new pieces including artworks of all sizes, jewellery and greeting cards. There will be something for everyone! My venue will be set up mostly outdoors with a tent and we have lots of parking. I'll also be doing a prize giveaway! I can wait to see you all there!
+So excited I can barely contain myself! I'll be a venue in the art crawl this year for my very first time! I've been busy creating loads of new pieces including artworks of all sizes, jewellery and greeting cards. There will be something for everyone! My venue will be set up mostly outdoors with a tent and we have lots of parking. I'll also be doing a prize giveaway! Look for me on the Sunshine Coast Art Crawl Map, I'm venue #90 in xwesam/Roberts Creek. I can't wait to see you all there! 
+
+https://suncoastarts.com/art-crawl/
 
 
 
