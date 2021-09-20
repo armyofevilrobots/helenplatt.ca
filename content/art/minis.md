@@ -1,20 +1,27 @@
 ---
-title: "Minis"
-date: 2019-12-10
+title: "Mini collage paintings"
+date: 2021-08-08
 draft: false
 images:
- - art/minis1.jpg
- - art/minis2.jpg
- - art/minis3.jpg
- - art/minis4.jpg
-price: SPECIAL PRICE WITH FRAMES $95 or $265 for 3 or UNFRAMED $65.00 or 3 for $175 CDN
-size: 6x6 in. each or 7.5 x 7.5 with frames
-medium: acrylic on panel
+ - art/minifront.jpg
+ - art/mini2frnt.jpg
+ - art/mini1_6inch.jpg
+ - art/mini2_4inch.jpg
+ - art/mini3_4inch.jpg
+ - art/mini4_4inch.jpg
+ - art/mini5_6inch.jpg
+ - art/mini6_6inch.jpg
+ - art/mini7_4inch.jpg
+ - art/mini8_6inch.jpg
+price: $40 for 4inch and $75 for 6 inch
+size: 4 to 6 inches
+medium: mixed media on wood or panel
 categories:
- - fluid media
-series: Go With the Flow Series
-seriesGroup: 2020-4-4-1234
-weight: 20
+ - mixed media
+series: Mini Series - click to see all!
+seriesGroup: 2020-56-56-1234
+weight: 30
+
 ---
 
-Painting created with Golden acrylic paints including metallics, on exhibition deep panel. Coated with high gloss epoxy with uv protection. Price does not include tax or shipping.
+Perfect for gifts or if you only have a tiny spot left on your wall! Mixed-media mini paintings on wood block or wood panel.

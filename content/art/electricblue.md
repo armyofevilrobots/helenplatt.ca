@@ -8,8 +8,8 @@ images:
  - art/electricblue5.jpg
  - art/electric blue1.jpg
  - art/electricblue_side.jpg
-price: SPECIAL PRICE WITH FRAMES $95 or $265 for 3 or UNFRAMED $65.00 or 3 for $175 CDN
-size: 6x6 in. each or 7.5 x 7.5 with frames
+price: $65.00 each or 3 for $165 CDN
+size: 6x6 in. each 
 medium: acrylic on panel
 categories:
  - fluid media
@@ -18,4 +18,4 @@ seriesGroup: 2020-1-1-1234
 weight: 40
 ---
 
-Painting created with Golden acrylic paints including metallics, on exhibition deep panel. Coated with high gloss epoxy with uv protection. Price does not include tax or shipping.
+Painting created with Golden acrylic paints including metallics, on exhibition deep panel. Coated with high gloss epoxy. Price does not include tax or shipping.

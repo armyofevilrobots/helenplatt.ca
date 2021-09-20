@@ -5,7 +5,7 @@ draft: false
 images:
  - art/mandalaITT_necklace.jpg
  - art/ITT_necklace32.jpg
-price: $38 CAD + tax
+price: $38 CDN + tax
 size: 18" black leather cord
 medium: lasercut wood necklace 
 categories:

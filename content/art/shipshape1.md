@@ -5,8 +5,8 @@ draft: false
 images:
  - art/shipshape1.jpg
  - art/shipshapewall.jpg
-price: $170 or $475 CDN for all three
-size: 13x16 including frame
+price: $185 each or $475 CDN for all three
+size: 11x14 including frame
 medium: mixed media on paper
 categories:
  - mixed media
@@ -15,4 +15,4 @@ seriesGroup: 2020-54-54-1234
 weight: 30
 ---
 
-Mixed-media paintings on paper. Includes Opus COHO frame and matt. Price does not include tax or  shipping.
+Mixed-media paintings on paper. Includes Opus Cypress frame and matt. Price does not include tax or  shipping.

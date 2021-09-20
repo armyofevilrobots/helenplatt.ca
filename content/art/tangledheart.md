@@ -4,8 +4,8 @@ date: 2021-02-14
 draft: false
 images:
  - art/tangledheart.jpg
-price: $95 CAD unframed - $155 with frame + tax
-size: 8x10 inches
+price: $185 CDN with frame + tax
+size: 11 x 14 inches framed
 medium: mixed media on paper
 categories:
  - mixed media

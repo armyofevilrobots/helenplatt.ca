@@ -4,7 +4,7 @@ date: 2019-12-10
 draft: false
 images:
  - art/ITT_12inch2.jpg
-price: $175 CAD + tax
+price: $175 CDN + tax
 size: 12 x 12 
 medium: Mixed Media and lasercut birch panel
 categories:
