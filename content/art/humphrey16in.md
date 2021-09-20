@@ -11,7 +11,7 @@ medium: ink, epoxy and lasercut birch panel
 categories:
  - laser
 series: Humphrey the Humpback
-seriesGroup: 2020-40-40-1234
+seriesGroup: 2020-30-30-1234
 weight: 80
 ---
 

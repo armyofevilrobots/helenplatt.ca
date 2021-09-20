@@ -11,7 +11,7 @@ medium: Mixed Media and lasercut birch on cradled panel
 categories:
  - laser
 series: Heart of Darkness Series
-seriesGroup: 2020-34-34-1234
+seriesGroup: 2020-36-36-1234
 weight: 94
 ---
 
