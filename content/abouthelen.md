@@ -15,7 +15,7 @@ I hope you enjoy browsing the gallery pages and please visit again as I’ll be 
 
 ## Biography:
 
-In 2013 my husband Derek and I moved to Roberts Creek on the Sunshine Coast and built our workshop studio, a long held dream.  After a 20 year career as a graphic artist, I’ve turned my focus to creating in my studio. I feel lucky to be here, on the coast of this cherished rainforest as my surroundings supply a daily source of inspiration.
+In 2013 my husband Derek and I moved to xwesam/Roberts Creek on the Sunshine Coast and built our workshop studio, a long held dream.  After a 20 year career as a graphic artist, I’ve turned my focus to creating in my studio. I feel lucky to be here, on the coast of this cherished rainforest as my surroundings supply a daily source of inspiration.
 
 
 
