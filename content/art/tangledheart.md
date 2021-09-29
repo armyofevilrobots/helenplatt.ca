@@ -3,6 +3,7 @@ title: "Tangled Heart"
 date: 2021-02-14
 draft: false
 images:
+ - art/tangledheartf.jpg
  - art/tangledheart.jpg
 price: $185 CDN with frame + tax
 size: 11 x 14 inches framed
