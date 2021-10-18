@@ -6,7 +6,7 @@ images:
  - art/owlfrt.jpg
  - art/owl960.jpg
  - art/owlcu.jpg
-price: $725 CDN + tax
+price: $745 CDN + tax
 size: wingspan 2.5ft
 medium: lasercut birch panel and epoxy
 categories:
