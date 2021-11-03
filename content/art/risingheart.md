@@ -4,7 +4,7 @@ date: 2019-12-10
 draft: false
 images:
  - art/heartdarkness1_risingheart.jpg
-price: $150 CDN + tax
+price: $150 CDN + tax - available for commission (item shown is sold)
 size: 10x10 
 medium: Mixed Media and lasercut birch on cradled panel
 categories:

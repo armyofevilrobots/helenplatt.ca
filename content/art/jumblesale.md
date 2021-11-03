@@ -4,7 +4,7 @@ date: 2019-12-10
 draft: false
 images:
  - art/jumblesale.jpg
-price: $125 CDN
+price: $125 CDN - SOLD
 size: 8x8 
 medium: lasercut birch panel
 categories:

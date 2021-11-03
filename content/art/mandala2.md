@@ -5,7 +5,7 @@ draft: false
 images:
  - art/ITT_8inch1.jpg
  - art/ITT_8inch2.jpg
-price: $125 
+price: $125 - available for commission (item shown is sold)
 size: 8 x 8
 medium: Mixed Media and lasercut birch panel
 categories:
