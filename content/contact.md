@@ -5,14 +5,17 @@ draft: false
 series: contact
 ---
 Welcome, Helen & Derek here! Thanks so much for visiting the website!
-We’d love to hear from you! We can be reached at:
+We’d love to hear from you! 
 
-info@armyofevilrobots.com
+We can be reached at:
+
+**<a href="mailto:info@helenplatt.ca">info@helenplatt.ca</a>**
+
 Or call our land line at **778 458 2002**
 
 or text me at **604 741 3635**
 
-Follow me on instagram at [helenplatt.art](https://www.instagram.com/helenplatt.art) or on Facebook at [helen.platt.studio](https://www.facebook.com/helen.platt.studio)  
+Follow me on instagram at [helenplatt.art](https://www.instagram.com/helenplatt.art) or on Facebook at [helenplatt.studio](https://www.facebook.com/helenplatt.studio)  
 
 ## Looking for a custom project?
 
