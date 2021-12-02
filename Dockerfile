@@ -1,22 +1,24 @@
-FROM debian:bullseye-slim
+FROM public.ecr.aws/lambda/python:3.9 as hpca_updater
 
-ENV HUGO_DESTINATION="public" \
-    HUGO_ENV="DEV" \
-    HOME="/tmp"
+# Copy function code
+ENV AWS_ACCESS_KEY_ID=
+ENV AWS_SECRET_ACCESS_KEY=
+ENV AWS_DEFAULT_REGION=
+ENV GIT_REPO=
+ENV S3_BUCKET=
+ENV INVALIDATE_DISTRIBUTIONS=
 
-RUN apt update \
- && DEBIAN_FRONTEND=noninteractive apt install -y wget bash-completion tzdata make ca-certificates wget curl awscli \
- && rm -rf /var/lib/apt/lists/* \
- && find /tmp -mindepth 1 -maxdepth 1 | xargs rm -rf \
- && mkdir -p /src /target \
- && chmod a+w /src /target \
- && wget https://github.com/gohugoio/hugo/releases/download/v0.89.4/hugo_extended_0.89.4_Linux-64bit.deb \
- && dpkg -i hugo_extended_0.89.4_Linux-64bit.deb
+WORKDIR ${LAMBDA_TASK_ROOT}
+COPY lambda.py requirements.txt ${LAMBDA_TASK_ROOT}
+RUN yum install -y tar gzip git awscli \
+    && python3 -m pip install -r requirements.txt
 
+RUN curl -L -O https://github.com/gohugoio/hugo/releases/download/v0.89.4/hugo_0.89.4_Linux-64bit.tar.gz \
+    && tar xzvf hugo_0.89.4_Linux-64bit.tar.gz \
+    && mv hugo /usr/bin/
 
+VOLUME /var/task
+VOLUME /tmp
 
-WORKDIR /src
-COPY Makefile invalidate.sh /usr/local/bin/
-VOLUME /src
-
-ENTRYPOINT ["hugo"]
+# Set the CMD to your handler (could also be done as a parameter override outside of the Dockerfile)
+CMD [ "lambda.handler" ]
