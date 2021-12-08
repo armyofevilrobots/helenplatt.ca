@@ -5,7 +5,7 @@ draft: false
 images:
  - art/heartdarkness3RM.jpg
  - art/heartdarkness3_metamorphosis.jpg
-price: $125 CDN + tax
+price: $125 CDN + tax  - available for commission (item shown is sold)
 size: 8x8 
 medium: Mixed Media and lasercut birch on cradled panel
 categories:

@@ -5,7 +5,7 @@ draft: false
 images:
  - art/Mumphrey_16inch_RM.jpg
  - art/Mumphrey_16inch.jpg
-price: $345 
+price: $345 - available for commission (item shown is sold)
 size: 16x16 plus frame
 medium: ink, epoxy and lasercut birch panel
 categories:
