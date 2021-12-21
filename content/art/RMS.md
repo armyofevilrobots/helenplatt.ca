@@ -4,7 +4,7 @@ date: 2019-12-10
 draft: false
 images:
  - art/RMS_960.jpg
-price: Currently at Gibsons Public Art Gallery until December 19
+price: $445 CDN + tax
 size: 20 x 20
 medium: lasercut birch panel and epoxy
 categories:
