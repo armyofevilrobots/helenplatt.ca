@@ -6,8 +6,8 @@ images:
  - art/owlfrt.jpg
  - art/owl960.jpg
  - art/owlcu.jpg
-price: $745 CDN + tax - available for commission (item shown is sold)
-size: wingspan 2.5ft
+price: $960 CDN + tax 
+size: wingspan 2.5ft SOLD OUT - available for commission
 medium: lasercut birch panel and epoxy
 categories:
  - laser

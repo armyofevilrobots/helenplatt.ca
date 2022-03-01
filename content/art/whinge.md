@@ -4,8 +4,8 @@ date: 2019-12-10
 draft: false
 images:
  - art/whinge.jpg
-price: $175 CDN + tax - available for commission (item shown is sold)
-size: art size 11x17"
+price: $275 CDN + tax
+size: 11x17in. (SOLD OUT - available for commission)
 medium: lasercut birch panel and epoxy
 categories:
  - laser

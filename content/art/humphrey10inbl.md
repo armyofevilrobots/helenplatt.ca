@@ -1,5 +1,5 @@
 ---
-title: "Humphrey the Humpback (colour options available)"
+title: "Humphrey the Humpback"
 date: 2019-12-10
 draft: false
 images:
@@ -7,9 +7,9 @@ images:
  - art/humphrey_blue10in_RM.jpg
  - art/humphrey_br10in.jpg
  - art/humphrey_br10in_RM.jpg
-price: 8in. $125 - 10in. $150 - 12in. $185 - available for commission (items shown are sold)
-size: multiple sizes available 
-medium: ink, epoxy and lasercut birch panel
+price: 10in./$235 - 12in./$275 _ 16in./$395
+size:  (SOLD OUT - available for commission) 
+medium: ink, epoxy and lasercut birch
 categories:
  - laser
 series: Humphrey the Humpback

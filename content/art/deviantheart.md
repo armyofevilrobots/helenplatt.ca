@@ -1,12 +1,12 @@
 ---
-title: "Heart of Darkness - Deviant Heart"
+title: "Deviant Heart"
 date: 2019-12-10
 draft: false
 images:
  - art/heartdarkness2_deviantheart.jpg
  - art/heartdarkness2RM2.jpg
-price: $150 CDN + tax - available for commission (item shown is sold)
-size: 10x10 
+price: 10in./$235 - 12in./$275 CDN + tax
+size: (SOLD OUT - available for commission) 
 medium: Mixed Media and lasercut birch on cradled panel
 categories:
  - laser

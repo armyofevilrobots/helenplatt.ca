@@ -1,5 +1,5 @@
 ---
-title: "Whale of a Tail (colour options available)"
+title: "Whale of a Tail"
 date: 2019-12-10
 draft: false
 images:
@@ -7,8 +7,8 @@ images:
  - art/whaletail2.jpg
  - art/whaletail3.jpg
  - art/whaletail4.jpg
-price: $395 - available for commission (item shown is sold)
-size: 28inch x 22inch
+price: $525
+size: 28inch x 22inch - available for commission
 medium: Yupo, Ink, Epoxy and lasercut birch panel
 categories:
  - laser

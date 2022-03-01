@@ -5,7 +5,7 @@ draft: false
 images:
  - art/onceuponanight_960.jpg
  - art/onceuponanightcu_960.jpg
-price: $185 includes frame
+price: $255 includes frame
 size: 15.5x18 including frame
 medium: mixed media and gold leaf on panel
 categories:

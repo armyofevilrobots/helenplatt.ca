@@ -6,7 +6,7 @@ images:
  - art/farcry.jpg
  - art/farcry1.jpg
  - art/farcrycu.jpg
-price: $275 CDN with frame + tax
+price: $375 CDN with frame + tax
 size: approx. 17 x 20 including frame
 medium: mixed media on paper
 categories:

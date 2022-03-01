@@ -4,8 +4,8 @@ date: 2019-12-10
 draft: false
 images:
  - art/winterflight.jpg
-price: $165.00 CDN + tax
-size: 10x10 inches (includes frame)
+price: SOLD OUT
+size: 10x10 inches
 medium: acrylic, ink and laser cut wood
 categories:
  - laser

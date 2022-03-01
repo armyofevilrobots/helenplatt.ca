@@ -5,9 +5,11 @@ draft: false
 images:
  - art/heart_uncaged2.jpg
  - art/heart_uncaged3RM.jpg
- - art/heart_uncaged3.jpg
-price: 8in. $125 - 10in. $150 - 12in. $185 - available for commission (items shown are sold)
-size: multiple sizes available 
+ - art/heartgold_black.jpg
+ - art/heart_blueprints.jpg
+
+price: 8in./$175 - 10in./$235 - 12in./$275
+size: multiple sizes - available for commission 
 medium: Mixed Media and lasercut birch on cradled panel
 categories:
  - laser

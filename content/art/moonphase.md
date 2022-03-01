@@ -1,12 +1,12 @@
 ---
-title: "Heart of Darkness - Moon Phase"
+title: "Moon Phase"
 date: 2019-12-10
 draft: false
 images:
  - art/heartdarkness3_moonphase.jpg
  - art/heartdarkness3_moonphaseRM.jpg
-price: $150 CDN + tax
-size: 10x10 
+price: 10in./$235 - 12in./$275 CDN + tax
+size: (SOLD OUT - available for commission) 
 medium: Mixed Media and lasercut birch on cradled panel
 categories:
  - laser

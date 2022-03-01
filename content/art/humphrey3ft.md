@@ -1,5 +1,5 @@
 ---
-title: "Humphrey the Humpback 3ft (colour options available)"
+title: "Humphrey the Humpback"
 date: 2019-12-10
 draft: false
 images:
@@ -7,8 +7,8 @@ images:
  - art/humphrey_blue3ft.jpg
  - art/humphrey_3ftcedar.jpg
  - art/humphrey_br3ft.jpg
-price: $375 - available for commission (items shown are sold)
-size: approx 3ft from nose to tail
+price: $495 
+size: 3ft (SOLD OUT - available for commission)
 medium: ink, epoxy and lasercut birch panel
 categories:
  - laser
