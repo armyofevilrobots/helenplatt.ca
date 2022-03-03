@@ -7,7 +7,7 @@ images:
  - art/whaletail2.jpg
  - art/whaletail3.jpg
  - art/whaletail4.jpg
-price: $525
+price: $495
 size: 28inch x 22inch - available for commission
 medium: Yupo, Ink, Epoxy and lasercut birch panel
 categories:
