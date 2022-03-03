@@ -1,5 +1,5 @@
 ---
-title: "Tangled Heart II"
+title: "Tangled Heart II - SOLD OUT - available for commission"
 date: 2021-02-14
 draft: false
 images:
