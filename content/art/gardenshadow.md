@@ -1,10 +1,11 @@
 ---
-title: "Garden of Shadows"
+title: "Garden of Shadows - VIEW MORE COLOURS"
 date: 2019-12-10
 draft: false
 images:
  - art/10_3.jpg
  - art/10_2.jpg
+ - art/sold_10in.jpg
  - art/8_2.jpg
  - art/8_1.jpg
 price: 8in./$195 - 10in./$255 - 12in./$295 - 16in./$455 CDN

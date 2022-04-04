@@ -1,17 +1,18 @@
 ---
-title: "Garden of Shadows"
+title: "Garden of Shadows - VIEW MORE COLOURS"
 date: 2019-12-10
 draft: false
 images:
  - art/10_1.jpg
-price: .
+ - art/light_10in.jpg
+price: $255
 size: 10x10
 medium: Collage, ink, epoxy and lasercut birch panel
 categories:
  - laser
 series: Garden of Shadows Series
 seriesGroup: 2020-20-20-1234
-weight: 40
+weight: 54
 ---
 
 I found inspiration for this series in the walls of heritage homes. Layers of paint, wallpaper and hidden treasures, hint at the lives, and stories that have gone before.
