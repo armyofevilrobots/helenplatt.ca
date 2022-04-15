@@ -2,7 +2,7 @@
 
 REPO?="https://github.com/armyofevilrobots/helenplatt.ca.git"
 BUCKET?="s3://helenplatt.ca/"
-DISTRIBUTIONS?="EQHBN8JGAB1PH E2AQZO73BPIN3E"
+DISTRIBUTIONS=EQHBN8JGAB1PH E2AQZO73BPIN3E
 SHELL=/bin/bash
 
 .PHONY: hugo s3 all invalidate cicd whoami
@@ -16,8 +16,10 @@ hugo:
 s3: hugo
 	aws s3 sync public/. "${BUCKET}"
 
-invalidate:
-	echo "${DISTRIBUTIONS}" | xargs ./invalidate.sh
+invalidate: $(DISTRIBUTIONS)
+$(DISTRIBUTIONS):
+	# echo "${DISTRIBUTIONS}" | xargs -d " " -I DIST ./invalidate.sh DIST
+	./invalidate.sh $@
 
 checkout:
 	git clone ${REPO} checkout
