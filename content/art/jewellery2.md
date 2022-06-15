@@ -5,7 +5,7 @@ draft: false
 images:
  - art/mc_earrings1.jpg
  - art/mc_earrings2.jpg
-price: $40 CDN
+price: $30 CDN
 size: .
 medium: laser cut salvaged Bubinga and acrylic
 categories:

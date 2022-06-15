@@ -5,7 +5,7 @@ draft: false
 images:
  - art/jewellery.jpg
  - art/mandalaITT_necklace.jpg
-price: $45 to $55 CDN
+price: $38 to $45 CDN
 size: .
 medium: laser cut birch and epoxy
 categories:

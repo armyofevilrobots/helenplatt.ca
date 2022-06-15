@@ -4,7 +4,7 @@ date: 2019-12-10
 draft: false
 images:
  - art/brooch.jpg
-price: $28 CDN
+price: $25 CDN
 size: .
 medium: laser cut birch and epoxy
 categories:
