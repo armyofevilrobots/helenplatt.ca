@@ -5,7 +5,7 @@ draft: false
 images:
  - art/tillwemeetagain3.jpg
  - art/tillwemeetagain3mu.jpg
-price: $185 CDN 
+price: $215 CDN 
 size: 8 x 11 inches
 medium: mixed media on panel
 categories:

@@ -1,11 +1,11 @@
 ---
-title: "Tangled Heart II - SOLD OUT - available for commission"
+title: "Tangled Heart II"
 date: 2021-02-14
 draft: false
 images:
  - art/tangledheartfii.jpg
  - art/tangledheartii.jpg
-price: $255 CDN with frame + tax
+price: SOLD OUT - available for commission
 size: 11 x 14 inches framed
 medium: mixed media on paper
 categories:

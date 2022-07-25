@@ -8,7 +8,7 @@ images:
  - art/sold_10in.jpg
  - art/8_2.jpg
  - art/8_1.jpg
-price: 8in./$195 - 10in./$255 - 12in./$295 - 16in./$455 CDN
+price: 8in./$185 - 10in./$240 - 12in./$285 - 16in./$400 CDN
 size: Available for commission (items shown are SOLD)
 medium: Collage, ink, epoxy and lasercut birch panel
 categories:

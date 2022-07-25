@@ -7,7 +7,7 @@ images:
  - art/humphrey_blue10in_RM.jpg
  - art/humphrey_br10in.jpg
  - art/humphrey_br10in_RM.jpg
-price: 10in./$235 - 12in./$275 _ 16in./$395
+price: 10in./$240 - 12in./$285 _ 16in./$400
 size:  (SOLD OUT - available for commission) 
 medium: ink, epoxy and lasercut birch
 categories:

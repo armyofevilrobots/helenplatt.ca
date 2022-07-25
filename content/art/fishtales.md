@@ -4,13 +4,13 @@ date: 2019-12-10
 draft: false
 images:
  - art/fishtales.jpg
-price: $220
+price: $240
 size: 10x10 
 medium: lasercut birch panel
 categories:
  - laser
 series: Offcut Art
-seriesGroup: 2020-48-48-1234
+seriesGroup: 2020-16-16-1234
 weight: 40
 ---
 

@@ -5,7 +5,7 @@ draft: false
 images:
  - art/10_1.jpg
  - art/light_10in.jpg
-price: $255
+price: $240
 size: 10x10
 medium: Collage, ink, epoxy and lasercut birch panel
 categories:

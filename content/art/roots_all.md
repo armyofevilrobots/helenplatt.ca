@@ -7,7 +7,7 @@ images:
  - art/roots1.jpg
  - art/roots2.jpg
  - art/roots3.jpg
-price: 6in./$145 - 10in./$245
+price: 6in./$135 - 10in./$240
 size: multiple sizes
 medium: Collage, and lasercut birch panel
 categories:

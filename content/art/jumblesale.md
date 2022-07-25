@@ -10,7 +10,7 @@ medium: lasercut birch panel
 categories:
  - laser
 series: Offcut Art
-seriesGroup: 2020-48-48-1234
+seriesGroup: 2020-16-16-1234
 weight: 30
 ---
 

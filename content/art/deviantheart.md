@@ -5,8 +5,8 @@ draft: false
 images:
  - art/heartdarkness2_deviantheart.jpg
  - art/heartdarkness2RM2.jpg
-price: 10in./$235 - 12in./$275 CDN + tax
-size: (SOLD OUT - available for commission) 
+price: (SOLD OUT - available for commission)
+size: multiple sizes 
 medium: Mixed Media and lasercut birch on cradled panel
 categories:
  - laser

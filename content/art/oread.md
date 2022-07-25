@@ -1,11 +1,11 @@
 ---
-title: "Oread - SOLD OUT - available for commission"
+title: "Oread"
 date: 2021-02-14
 draft: false
 images:
  - art/deer1.jpg
  - art/deer2.jpg
-price: $375 CDN + tax
+price: SOLD OUT - available for commission
 size: 8 x 24 inches 
 medium: mixed media on deep cradled panel
 categories:
