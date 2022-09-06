@@ -4,17 +4,17 @@ date: 2019-10-12T11:42:28-07:00
 draft: false
 series: events
 ---
-#### 2021 - Oct. 5 to Nov. 7th
+#### 2022 SUNSHINE COAST ART CRAWL!!! October 21st to 23rd
 
-So much going on at the Gibsons Public Market and I'm so happy to get to show here again this year! The show will be up October 5th to November 7th with stunning artwork by David Emerson Hall along with many of my own new works. Escape the stormy fall weather, check out some art, visit the marine center and get all your holiday shopping done at the market. If you haven’t been, it’s well worth a visit!
+My second year in the crawl! Bigger and better than ever! Last year was amazing and the turn out of people was beyond what I had hoped for. Thank you to everyone who came last year and I hope to see you this year!
 
-http://gibsonspublicmarket.com/
+This year I'm excited to be a part of the <B>HENDERSON HOT SPOT!</B> Our little corner of Roberts Creek is bursting with artists so it's a fantastic spot to stop to hit lots of studios in one go. Plus we are right beside Henderson Beach for a quick break to watch the waves. We have loads of parking and I'll be doing a prize giveaway!
 
-#### SUNSHINE COAST ART CRAWL!!! October 22nd to 24th
+Look for me on the Sunshine Coast Art Crawl Map, I'm venue #84 in xwesam/Roberts Creek. I can't wait to see you all there! 
 
-So excited I can barely contain myself! I'll be a venue in the art crawl this year for my very first time! I've been busy creating loads of new pieces including artworks of all sizes, jewellery and greeting cards. There will be something for everyone! My venue will be set up mostly outdoors with a tent and we have lots of parking. I'll also be doing a prize giveaway! Look for me on the Sunshine Coast Art Crawl Map, I'm venue #90 in xwesam/Roberts Creek. I can't wait to see you all there! 
+https://coastculture.com/art-crawl/
 
-https://suncoastarts.com/art-crawl/
+
 
 
 
