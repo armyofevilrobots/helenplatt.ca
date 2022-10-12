@@ -5,7 +5,7 @@ draft: false
 images:
  - art/ITT_12inch2.jpg
  - art/ITT_6inch123.jpg
-price: 6in./$135 - 10in./$240 - 12in./$285
+price: .
 size:  available for commission 
 medium: Mixed Media and lasercut birch panel
 categories:

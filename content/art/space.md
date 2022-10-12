@@ -8,7 +8,7 @@ images:
  - art/cr3a.jpg
  - art/cr2b.jpg
  - art/cr3b.jpg
-price: $310 each CDN plus tax
+price:  .
 size: 11 x 17.5 
 medium: lasercut birch panel, acrylic paint and mixed media
 categories:

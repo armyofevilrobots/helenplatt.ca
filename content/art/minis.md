@@ -12,7 +12,7 @@ images:
  - art/mini6_6inch.jpg
  - art/mini7_4inch.jpg
 
-price: $55 for 4inch and $95 for 6 inch
+price: .
 size: 4 to 6 inches
 medium: mixed media on wood or panel
 categories:

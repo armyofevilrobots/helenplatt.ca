@@ -5,7 +5,7 @@ draft: false
 images:
  - art/6_4.jpg
  - art/6_2.jpg
-price: $135 CDN
+price: .
 size: 6x6
 medium: Collage, ink, epoxy and lasercut birch panel
 categories:

@@ -7,7 +7,7 @@ images:
  - art/helo2.jpg
  - art/ear_leaf.jpg
  - art/leaves.jpg
-price: $28 to $35 CDN
+price: .
 size: .
 medium: laser cut birch and epoxy
 categories:

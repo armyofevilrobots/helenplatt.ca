@@ -8,7 +8,7 @@ images:
  - art/heartgold_black.jpg
  - art/heart_blueprints.jpg
 
-price: 8in./$185 - 10in./$240 - 12in./$285
+price: .
 size: multiple sizes - available for commission 
 medium: Mixed Media and lasercut birch on cradled panel
 categories:

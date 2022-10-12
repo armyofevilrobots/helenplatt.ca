@@ -4,7 +4,7 @@ date: 2019-12-10
 draft: false
 images:
  - art/RMS_960.jpg
-price: $675 CDN + tax
+price: .
 size: 20 x 20
 medium: lasercut birch panel and epoxy
 categories:

@@ -5,7 +5,7 @@ draft: false
 images:
  - art/dkbl_8in.jpg
  - art/green_8in.jpg
-price: $185 CDN
+price: .
 size: 8x8
 medium: Collage, ink, epoxy and lasercut birch panel
 categories:

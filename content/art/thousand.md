@@ -4,7 +4,7 @@ date: 2019-12-10
 draft: false
 images:
  - art/thousand.jpg
-price: $240
+price: .
 size: 10x10 
 medium: lasercut birch panel
 categories:

@@ -6,7 +6,7 @@ images:
  - art/neckleaf.jpg
  - art/ear_leaf.jpg
  - art/leaves.jpg
-price: $35 to $45 CDN
+price: .
 size: .
 medium: laser cut birch and epoxy
 categories:

@@ -7,7 +7,7 @@ images:
  - art/humphrey_blue3ft.jpg
  - art/humphrey_3ftcedar.jpg
  - art/humphrey_br3ft.jpg
-price: $495 
+price: . 
 size: 3ft (SOLD OUT - available for commission)
 medium: ink, epoxy and lasercut birch panel
 categories:

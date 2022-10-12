@@ -9,7 +9,7 @@ images:
  - art/chasingrainbowscrop3.jpg
  - art/chasingrainbowscrop4.jpg
  - art/wall2.jpg
-price: $635
+price: .
 size: 17x35 
 medium: lasercut birch panel, acrylic paint and mixed media
 categories:

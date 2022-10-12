@@ -5,7 +5,7 @@ draft: false
 images:
  - art/heartgold_sun2.jpg
  - art/heartgold_sun1.jpg
-price: $155 CDN + tax
+price: .
 size: 8x8 
 medium: Mixed Media and lasercut birch on cradled panel
 categories:

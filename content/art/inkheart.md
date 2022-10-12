@@ -5,7 +5,7 @@ draft: false
 images:
  - art/inkheart_mu3.jpg
  - art/inkheart.jpg
-price: $295 CDN
+price: .
 size: .
 medium: Yupo, paper and ink - framed
 categories:

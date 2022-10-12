@@ -6,7 +6,7 @@ images:
  - art/brown4_960.jpg
  - art/blue4_960.jpg
  - art/12_1.jpg
-price: 12in./$285
+price: .
 size: 12x12
 medium: Collage, ink, epoxy and lasercut birch panel
 categories:
