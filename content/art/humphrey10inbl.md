@@ -13,7 +13,7 @@ medium: ink, epoxy and lasercut birch
 categories:
  - laser
 series: Humphrey the Humpback
-seriesGroup: 2020-30-30-1234
+seriesGroup: 2020-13-13-1234
 weight: 50
 ---
 
