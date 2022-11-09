@@ -5,7 +5,7 @@ draft: false
 images:
  - art/stagbeetle_12gp copy.jpg
 price:  .
-size: 16in x 16in 
+size: SOLD OUT - available for commission in 12 in. or 16 in. 
 medium: lasercut birch panel, acrylic paint and mixed media
 categories:
  - laser

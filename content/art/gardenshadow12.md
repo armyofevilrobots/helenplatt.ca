@@ -7,7 +7,7 @@ images:
  - art/blue4_960.jpg
  - art/12_1.jpg
 price: .
-size: 12x12
+size: 12x12 (One Left - other colours available for commission)
 medium: Collage, ink, epoxy and lasercut birch panel
 categories:
  - laser
@@ -15,6 +15,8 @@ series: Garden of Shadows Series
 seriesGroup: 2020-20-20-1234
 weight: 55
 ---
+
+The light blue one is still available!
 
 I found inspiration for this series in the walls of heritage homes. Layers of paint, wallpaper and hidden treasures, hint at the lives, and stories that have gone before.
 

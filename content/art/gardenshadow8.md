@@ -6,7 +6,7 @@ images:
  - art/dkbl_8in.jpg
  - art/green_8in.jpg
 price: .
-size: 8x8
+size: SOLD - available for commission
 medium: Collage, ink, epoxy and lasercut birch panel
 categories:
  - laser

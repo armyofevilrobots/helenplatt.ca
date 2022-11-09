@@ -8,7 +8,7 @@ images:
  - art/roots2.jpg
  - art/roots3.jpg
 price: .
-size: multiple sizes
+size: SOLD multiple sizes available for commission
 medium: Collage, and lasercut birch panel
 categories:
  - laser
@@ -17,6 +17,6 @@ seriesGroup: 2020-20-20-1234
 weight: 56
 ---
 
-A branch from my Garden of Shadows Series.
+A branch from my Garden of Shadows Series. 
 
 Price does not include tax or shipping.

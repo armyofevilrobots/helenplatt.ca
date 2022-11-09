@@ -6,7 +6,7 @@ images:
  - art/tillwemeetagain3.jpg
  - art/tillwemeetagain3mu.jpg
 price: .  
-size: 8 x 11 inches
+size: 8 x 11 inches SOLD
 medium: mixed media on panel
 categories:
  - mixed media

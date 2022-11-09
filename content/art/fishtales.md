@@ -5,7 +5,7 @@ draft: false
 images:
  - art/fishtales.jpg
 price:  . 
-size: 10x10 
+size: 10x10 SOLD 
 medium: lasercut birch panel
 categories:
  - laser
