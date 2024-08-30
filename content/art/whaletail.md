@@ -13,8 +13,8 @@ images:
  - art/whaletail4.jpg
  - art/whaletail_1.jpg
  - art/whaletail_4.jpg
-price: .
-size: 30inch x 24inch - available for commission
+price: SOLD
+size: 30inch x 24inch # - available for commission
 medium: Yupo, Ink, Epoxy and lasercut birch panel
 categories:
  - laser
@@ -23,4 +23,5 @@ seriesGroup: 2020-17-17-1234
 weight: 20
 ---
 
-Living on the northwest coast, I'm lucky enough to see whales quite often! One of my favorites is the humpback with their crinkly edges to their flukes and fins. Made from laser cut birch panel and ink. Price does not include tax or shipping. Several of the colours shown are sold out, commissions are welcome!
+Living on the northwest coast, I'm lucky enough to see whales quite often! One of my favorites is the humpback with their crinkly edges to their flukes and fins. Made from laser cut birch panel and ink. Price does not include tax or shipping. Sold out.
+# Several of the colours shown are sold out, commissions are welcome!

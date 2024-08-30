@@ -1,7 +1,7 @@
 ---
 title: "Fall Leaves"
 date: 2019-12-10
-draft: false
+draft: true
 images:
  - art/neckleaf.jpg
  - art/ear_leaf.jpg

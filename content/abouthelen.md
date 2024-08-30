@@ -11,7 +11,7 @@ For me, the joy in creating lies in a journey of experimentation. As I explore n
 
 My art reflects my process with work spanning fluid media and mixed media, to laser cutting and 3D printing.
 
-I hope you enjoy browsing the gallery pages and please visit again as I’ll be adding new work often!
+I hope you enjoy browsing the gallery pages and please visit again.
 
 ## Biography:
 

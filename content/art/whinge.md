@@ -4,8 +4,8 @@ date: 2019-12-10
 draft: false
 images:
  - art/whinge.jpg
-price: .
-size: 11x17in. (SOLD OUT - available for commission)
+price: SOLD
+size: 11x17in. # (SOLD OUT - available for commission)
 medium: lasercut birch panel and epoxy
 categories:
  - laser

@@ -6,8 +6,8 @@ images:
  - art/brown4_960.jpg
  - art/blue4_960.jpg
  - art/12_1.jpg
-price: .
-size: 12x12 (One Left - other colours available for commission)
+price: SOLD
+size: 12x12 # (One Left - other colours available for commission)
 medium: Collage, ink, epoxy and lasercut birch panel
 categories:
  - laser

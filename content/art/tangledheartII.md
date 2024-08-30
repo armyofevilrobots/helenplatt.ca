@@ -5,7 +5,7 @@ draft: false
 images:
  - art/tangledheartfii.jpg
  - art/tangledheartii.jpg
-price: SOLD OUT - available for commission
+price: SOLD OUT
 size: 11 x 14 inches framed
 medium: mixed media on paper
 categories:

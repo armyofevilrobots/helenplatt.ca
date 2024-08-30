@@ -5,7 +5,7 @@ draft: false
 images:
  - art/deer1.jpg
  - art/deer2.jpg
-price: SOLD OUT - available for commission
+price: SOLD OUT
 size: 8 x 24 inches 
 medium: mixed media on deep cradled panel
 categories:

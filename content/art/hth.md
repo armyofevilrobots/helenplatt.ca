@@ -5,8 +5,8 @@ draft: false
 images:
  - art/hth2022_2.jpg
  - art/humphrey2a.jpg
-price:  .
-size: available for commission in 8in, 12in. or 16in.
+price: SOLD
+size: Various # available for commission in 8in, 12in. or 16in.
 medium: lasercut birch panel, epoxy and mixed media
 categories:
  - laser

@@ -41,11 +41,11 @@ pageinatePath="page"
     url = "/abouthelen.html"
     weight = 10
 
-  [[menu.main]]
-    identifier = "events"
-    name = "events"
-    url = "/events.html"
-    weight = 50
+# [[menu.main]]
+#    identifier = "events"
+#    name = "events"
+#    url = "/events.html"
+#    weight = 50
 
   [[menu.main]]
     identifier = "contact"

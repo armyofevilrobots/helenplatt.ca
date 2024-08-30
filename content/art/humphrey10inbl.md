@@ -7,8 +7,8 @@ images:
  - art/humphrey_blue10in_RM.jpg
  - art/humphrey_br10in.jpg
  - art/humphrey_br10in_RM.jpg
-price: .
-size:  (SOLD OUT - available for commission) 
+price: SOLD
+size: SOLD # (SOLD OUT - available for commission) 
 medium: ink, epoxy and lasercut birch
 categories:
  - laser

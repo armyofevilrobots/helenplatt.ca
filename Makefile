@@ -4,6 +4,7 @@ REPO?="https://github.com/armyofevilrobots/helenplatt.ca.git"
 BUCKET?="s3://helenplatt.ca/"
 DISTRIBUTIONS=EQHBN8JGAB1PH E2AQZO73BPIN3E
 SHELL=/bin/bash
+AWS_PROFILE=aoer
 
 .PHONY: hugo s3 all invalidate cicd whoami
 
@@ -14,7 +15,7 @@ hugo:
 	hugo
 
 s3: hugo
-	aws s3 sync public/. "${BUCKET}"
+	aws --profile "${AWS_PROFILE}" s3 sync public/. "${BUCKET}"
 
 invalidate: $(DISTRIBUTIONS)
 $(DISTRIBUTIONS):

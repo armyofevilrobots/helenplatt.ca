@@ -6,7 +6,7 @@ images:
  - art/owlfrt.jpg
  - art/owl960.jpg
  - art/owlcu.jpg
-price: SOLD OUT - available for commission 
+price: SOLD OUT # - available for commission 
 size: wingspan 2.5ft 
 medium: lasercut birch panel and epoxy
 categories:

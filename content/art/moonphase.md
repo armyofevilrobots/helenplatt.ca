@@ -5,7 +5,7 @@ draft: false
 images:
  - art/heartdarkness3_moonphase.jpg
  - art/heartdarkness3_moonphaseRM.jpg
-price: (SOLD OUT - available for commission)
+price: (SOLD OUT) # - available for commission)
 size: multiple sizes 
 medium: Mixed Media and lasercut birch on cradled panel
 categories:

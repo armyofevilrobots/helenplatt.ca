@@ -4,8 +4,8 @@ date: 2019-12-10
 draft: false
 images:
  - art/IOBeeing_gp12.jpg
-price:  .
-size: 16in x 16in (SOLD available for commission)
+price: SOLD
+size: 16in x 16in # (SOLD available for commission)
 medium: lasercut birch panel, acrylic paint and mixed media
 categories:
  - laser

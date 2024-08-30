@@ -7,8 +7,8 @@ images:
  - art/roots1.jpg
  - art/roots2.jpg
  - art/roots3.jpg
-price: .
-size: SOLD multiple sizes available for commission
+price: SOLD
+size: SOLD # multiple sizes available for commission
 medium: Collage, and lasercut birch panel
 categories:
  - laser

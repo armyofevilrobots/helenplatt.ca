@@ -8,8 +8,8 @@ images:
  - art/sold_10in.jpg
  - art/8_2.jpg
  - art/8_1.jpg
-price: .
-size: Available for commission (items shown are SOLD)
+price: SOLD
+size: N/A #Available for commission (items shown are SOLD)
 medium: Collage, ink, epoxy and lasercut birch panel
 categories:
  - laser

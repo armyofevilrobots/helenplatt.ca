@@ -6,8 +6,8 @@ images:
  - art/scarab_deco2.jpg
  - art/bug6inch.jpg
  - art/scarab_deco.jpg
-price:  .
-size: 10 x 10 (also available for commission in 6 inch, 8 in.)
+price: SOLD
+size: 10 x 10 # (also available for commission in 6 inch, 8 in.)
 medium: lasercut birch panel, acrylic and mixed media
 categories:
  - laser
