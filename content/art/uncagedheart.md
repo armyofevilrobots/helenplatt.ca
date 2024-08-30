@@ -8,8 +8,8 @@ images:
  - art/heartgold_black.jpg
  - art/heart_blueprints.jpg
 
-price: .
-size: multiple sizes - available for commission 
+price: SOLD
+size: multiple sizes
 medium: Mixed Media and lasercut birch on cradled panel
 categories:
  - laser

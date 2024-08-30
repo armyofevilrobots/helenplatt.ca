@@ -1,7 +1,7 @@
 ---
 title: "In This Together - Necklace"
 date: 2019-12-10
-draft: false
+draft: true
 images:
  - art/mandalaITT_necklace.jpg
  - art/ITT_necklace32.jpg

@@ -4,7 +4,7 @@ date: 2019-12-10
 draft: false
 images:
  - art/IOBeeing_20in_gp12.jpg
-price:  .
+price: SOLD
 size: 20in x 20in 
 medium: lasercut birch panel, acrylic paint and mixed media
 categories:

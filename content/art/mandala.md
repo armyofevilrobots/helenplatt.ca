@@ -1,7 +1,7 @@
 ---
 title: "In This Together - Mandala"
 date: 2019-12-10
-draft: false
+draft: true
 images:
  - art/ITT_12inch2.jpg
  - art/ITT_6inch123.jpg
